@@ -1,0 +1,3469 @@
+borough,year,month,work_type,building_permit_count
+BRONX,2023,1,Antenna,22
+BRONX,2023,1,Boiler Equipment,21
+BRONX,2023,1,Construction Fence,113
+BRONX,2023,1,Curb Cut,5
+BRONX,2023,1,Earth Work,18
+BRONX,2023,1,Foundation,39
+BRONX,2023,1,General Construction,240
+BRONX,2023,1,Mechanical Systems,82
+BRONX,2023,1,Plumbing,145
+BRONX,2023,1,Protection and Mechanical Methods,28
+BRONX,2023,1,Sidewalk Shed,128
+BRONX,2023,1,Sign,15
+BRONX,2023,1,Sprinklers,70
+BRONX,2023,1,Standpipe,18
+BRONX,2023,1,Structural,81
+BRONX,2023,1,Support of Excavation,15
+BRONX,2023,1,Supported Scaffold,42
+BRONX,2023,2,Antenna,26
+BRONX,2023,2,Boiler Equipment,19
+BRONX,2023,2,Construction Fence,129
+BRONX,2023,2,Curb Cut,8
+BRONX,2023,2,Earth Work,16
+BRONX,2023,2,Foundation,39
+BRONX,2023,2,General Construction,214
+BRONX,2023,2,Mechanical Systems,90
+BRONX,2023,2,Plumbing,178
+BRONX,2023,2,Protection and Mechanical Methods,17
+BRONX,2023,2,Sidewalk Shed,141
+BRONX,2023,2,Sign,26
+BRONX,2023,2,Sprinklers,69
+BRONX,2023,2,Standpipe,15
+BRONX,2023,2,Structural,67
+BRONX,2023,2,Support of Excavation,16
+BRONX,2023,2,Supported Scaffold,53
+BRONX,2023,3,Antenna,13
+BRONX,2023,3,Boiler Equipment,18
+BRONX,2023,3,Construction Fence,206
+BRONX,2023,3,Curb Cut,17
+BRONX,2023,3,Earth Work,29
+BRONX,2023,3,Foundation,55
+BRONX,2023,3,Full Demolition,1
+BRONX,2023,3,General Construction,311
+BRONX,2023,3,Mechanical Systems,104
+BRONX,2023,3,Plumbing,203
+BRONX,2023,3,Protection and Mechanical Methods,28
+BRONX,2023,3,Sidewalk Shed,272
+BRONX,2023,3,Sign,6
+BRONX,2023,3,Sprinklers,116
+BRONX,2023,3,Standpipe,40
+BRONX,2023,3,Structural,93
+BRONX,2023,3,Support of Excavation,24
+BRONX,2023,3,Supported Scaffold,70
+BRONX,2023,4,Antenna,19
+BRONX,2023,4,Boiler Equipment,22
+BRONX,2023,4,Construction Fence,122
+BRONX,2023,4,Curb Cut,6
+BRONX,2023,4,Earth Work,16
+BRONX,2023,4,Foundation,45
+BRONX,2023,4,General Construction,256
+BRONX,2023,4,Mechanical Systems,110
+BRONX,2023,4,Plumbing,171
+BRONX,2023,4,Protection and Mechanical Methods,29
+BRONX,2023,4,Sidewalk Shed,162
+BRONX,2023,4,Sign,16
+BRONX,2023,4,Sprinklers,72
+BRONX,2023,4,Standpipe,27
+BRONX,2023,4,Structural,79
+BRONX,2023,4,Support of Excavation,31
+BRONX,2023,4,Supported Scaffold,47
+BRONX,2023,5,Antenna,21
+BRONX,2023,5,Boiler Equipment,30
+BRONX,2023,5,Construction Fence,139
+BRONX,2023,5,Curb Cut,15
+BRONX,2023,5,Earth Work,25
+BRONX,2023,5,Foundation,40
+BRONX,2023,5,Full Demolition,2
+BRONX,2023,5,General Construction,265
+BRONX,2023,5,Mechanical Systems,100
+BRONX,2023,5,Plumbing,167
+BRONX,2023,5,Protection and Mechanical Methods,35
+BRONX,2023,5,Sidewalk Shed,153
+BRONX,2023,5,Sign,18
+BRONX,2023,5,Sprinklers,69
+BRONX,2023,5,Standpipe,26
+BRONX,2023,5,Structural,85
+BRONX,2023,5,Support of Excavation,21
+BRONX,2023,5,Supported Scaffold,47
+BRONX,2023,6,Antenna,15
+BRONX,2023,6,Boiler Equipment,22
+BRONX,2023,6,Construction Fence,117
+BRONX,2023,6,Curb Cut,14
+BRONX,2023,6,Earth Work,19
+BRONX,2023,6,Foundation,42
+BRONX,2023,6,Full Demolition,10
+BRONX,2023,6,General Construction,265
+BRONX,2023,6,Mechanical Systems,105
+BRONX,2023,6,Plumbing,172
+BRONX,2023,6,Protection and Mechanical Methods,28
+BRONX,2023,6,Sidewalk Shed,175
+BRONX,2023,6,Sign,22
+BRONX,2023,6,Sprinklers,68
+BRONX,2023,6,Standpipe,31
+BRONX,2023,6,Structural,72
+BRONX,2023,6,Support of Excavation,16
+BRONX,2023,6,Supported Scaffold,61
+BRONX,2023,7,Antenna,10
+BRONX,2023,7,Boiler Equipment,20
+BRONX,2023,7,Construction Fence,100
+BRONX,2023,7,Curb Cut,15
+BRONX,2023,7,Earth Work,22
+BRONX,2023,7,Foundation,40
+BRONX,2023,7,Full Demolition,2
+BRONX,2023,7,General Construction,242
+BRONX,2023,7,Mechanical Systems,85
+BRONX,2023,7,Plumbing,149
+BRONX,2023,7,Protection and Mechanical Methods,27
+BRONX,2023,7,Sidewalk Shed,155
+BRONX,2023,7,Sign,18
+BRONX,2023,7,Sprinklers,58
+BRONX,2023,7,Standpipe,18
+BRONX,2023,7,Structural,77
+BRONX,2023,7,Support of Excavation,21
+BRONX,2023,7,Supported Scaffold,80
+BRONX,2023,8,Antenna,8
+BRONX,2023,8,Boiler Equipment,33
+BRONX,2023,8,Construction Fence,85
+BRONX,2023,8,Curb Cut,10
+BRONX,2023,8,Earth Work,17
+BRONX,2023,8,Foundation,54
+BRONX,2023,8,Full Demolition,11
+BRONX,2023,8,General Construction,281
+BRONX,2023,8,Mechanical Systems,126
+BRONX,2023,8,Plumbing,149
+BRONX,2023,8,Protection and Mechanical Methods,31
+BRONX,2023,8,Sidewalk Shed,141
+BRONX,2023,8,Sign,35
+BRONX,2023,8,Sprinklers,69
+BRONX,2023,8,Standpipe,22
+BRONX,2023,8,Structural,82
+BRONX,2023,8,Support of Excavation,21
+BRONX,2023,8,Supported Scaffold,42
+BRONX,2023,9,Antenna,10
+BRONX,2023,9,Boiler Equipment,16
+BRONX,2023,9,Construction Fence,97
+BRONX,2023,9,Curb Cut,9
+BRONX,2023,9,Earth Work,17
+BRONX,2023,9,Foundation,32
+BRONX,2023,9,Full Demolition,8
+BRONX,2023,9,General Construction,283
+BRONX,2023,9,Mechanical Systems,99
+BRONX,2023,9,Plumbing,167
+BRONX,2023,9,Protection and Mechanical Methods,29
+BRONX,2023,9,Sidewalk Shed,131
+BRONX,2023,9,Sign,16
+BRONX,2023,9,Sprinklers,80
+BRONX,2023,9,Standpipe,29
+BRONX,2023,9,Structural,85
+BRONX,2023,9,Support of Excavation,17
+BRONX,2023,9,Supported Scaffold,42
+BRONX,2023,10,Antenna,15
+BRONX,2023,10,Boiler Equipment,24
+BRONX,2023,10,Construction Fence,125
+BRONX,2023,10,Curb Cut,18
+BRONX,2023,10,Earth Work,12
+BRONX,2023,10,Foundation,25
+BRONX,2023,10,Full Demolition,8
+BRONX,2023,10,General Construction,256
+BRONX,2023,10,Mechanical Systems,85
+BRONX,2023,10,Plumbing,164
+BRONX,2023,10,Protection and Mechanical Methods,18
+BRONX,2023,10,Sidewalk Shed,122
+BRONX,2023,10,Sign,28
+BRONX,2023,10,Sprinklers,57
+BRONX,2023,10,Standpipe,21
+BRONX,2023,10,Structural,76
+BRONX,2023,10,Support of Excavation,17
+BRONX,2023,10,Supported Scaffold,41
+BRONX,2023,11,Antenna,6
+BRONX,2023,11,Boiler Equipment,22
+BRONX,2023,11,Construction Fence,126
+BRONX,2023,11,Curb Cut,8
+BRONX,2023,11,Earth Work,31
+BRONX,2023,11,Foundation,65
+BRONX,2023,11,Full Demolition,12
+BRONX,2023,11,General Construction,274
+BRONX,2023,11,Mechanical Systems,99
+BRONX,2023,11,Plumbing,150
+BRONX,2023,11,Protection and Mechanical Methods,24
+BRONX,2023,11,Sidewalk Shed,99
+BRONX,2023,11,Sign,26
+BRONX,2023,11,Sprinklers,62
+BRONX,2023,11,Standpipe,15
+BRONX,2023,11,Structural,99
+BRONX,2023,11,Support of Excavation,24
+BRONX,2023,11,Supported Scaffold,40
+BRONX,2023,11,Suspended Scaffold,3
+BRONX,2023,12,Antenna,6
+BRONX,2023,12,Boiler Equipment,15
+BRONX,2023,12,Construction Fence,118
+BRONX,2023,12,Curb Cut,13
+BRONX,2023,12,Earth Work,17
+BRONX,2023,12,Foundation,30
+BRONX,2023,12,Full Demolition,6
+BRONX,2023,12,General Construction,234
+BRONX,2023,12,Mechanical Systems,81
+BRONX,2023,12,Plumbing,125
+BRONX,2023,12,Protection and Mechanical Methods,11
+BRONX,2023,12,Sidewalk Shed,131
+BRONX,2023,12,Sign,17
+BRONX,2023,12,Solar,25
+BRONX,2023,12,Sprinklers,62
+BRONX,2023,12,Standpipe,31
+BRONX,2023,12,Structural,71
+BRONX,2023,12,Support of Excavation,21
+BRONX,2023,12,Supported Scaffold,44
+BRONX,2023,12,Suspended Scaffold,43
+BRONX,2024,1,Antenna,6
+BRONX,2024,1,Boiler Equipment,18
+BRONX,2024,1,Construction Fence,105
+BRONX,2024,1,Curb Cut,11
+BRONX,2024,1,Earth Work,24
+BRONX,2024,1,Foundation,44
+BRONX,2024,1,Full Demolition,9
+BRONX,2024,1,General Construction,279
+BRONX,2024,1,Mechanical Systems,126
+BRONX,2024,1,Plumbing,140
+BRONX,2024,1,Protection and Mechanical Methods,21
+BRONX,2024,1,Sidewalk Shed,170
+BRONX,2024,1,Sign,11
+BRONX,2024,1,Solar,58
+BRONX,2024,1,Sprinklers,74
+BRONX,2024,1,Standpipe,22
+BRONX,2024,1,Structural,86
+BRONX,2024,1,Support of Excavation,15
+BRONX,2024,1,Supported Scaffold,62
+BRONX,2024,1,Suspended Scaffold,94
+BRONX,2024,2,Antenna,3
+BRONX,2024,2,Boiler Equipment,25
+BRONX,2024,2,Construction Fence,151
+BRONX,2024,2,Curb Cut,9
+BRONX,2024,2,Earth Work,12
+BRONX,2024,2,Foundation,33
+BRONX,2024,2,Full Demolition,11
+BRONX,2024,2,General Construction,259
+BRONX,2024,2,Mechanical Systems,82
+BRONX,2024,2,Plumbing,167
+BRONX,2024,2,Protection and Mechanical Methods,20
+BRONX,2024,2,Sidewalk Shed,200
+BRONX,2024,2,Sign,15
+BRONX,2024,2,Solar,88
+BRONX,2024,2,Sprinklers,65
+BRONX,2024,2,Standpipe,15
+BRONX,2024,2,Structural,84
+BRONX,2024,2,Support of Excavation,27
+BRONX,2024,2,Supported Scaffold,39
+BRONX,2024,2,Suspended Scaffold,53
+BRONX,2024,3,Antenna,6
+BRONX,2024,3,Boiler Equipment,19
+BRONX,2024,3,Construction Fence,123
+BRONX,2024,3,Curb Cut,4
+BRONX,2024,3,Earth Work,31
+BRONX,2024,3,Foundation,57
+BRONX,2024,3,Full Demolition,7
+BRONX,2024,3,General Construction,302
+BRONX,2024,3,Mechanical Systems,138
+BRONX,2024,3,Plumbing,157
+BRONX,2024,3,Protection and Mechanical Methods,20
+BRONX,2024,3,Sidewalk Shed,221
+BRONX,2024,3,Sign,15
+BRONX,2024,3,Solar,99
+BRONX,2024,3,Sprinklers,70
+BRONX,2024,3,Standpipe,18
+BRONX,2024,3,Structural,107
+BRONX,2024,3,Support of Excavation,13
+BRONX,2024,3,Supported Scaffold,59
+BRONX,2024,3,Suspended Scaffold,50
+BRONX,2024,4,Antenna,2
+BRONX,2024,4,Boiler Equipment,17
+BRONX,2024,4,Construction Fence,105
+BRONX,2024,4,Curb Cut,16
+BRONX,2024,4,Earth Work,16
+BRONX,2024,4,Foundation,29
+BRONX,2024,4,Full Demolition,10
+BRONX,2024,4,General Construction,297
+BRONX,2024,4,Mechanical Systems,131
+BRONX,2024,4,Plumbing,176
+BRONX,2024,4,Protection and Mechanical Methods,34
+BRONX,2024,4,Sidewalk Shed,259
+BRONX,2024,4,Sign,20
+BRONX,2024,4,Solar,116
+BRONX,2024,4,Sprinklers,72
+BRONX,2024,4,Standpipe,29
+BRONX,2024,4,Structural,100
+BRONX,2024,4,Support of Excavation,12
+BRONX,2024,4,Supported Scaffold,45
+BRONX,2024,4,Suspended Scaffold,52
+BRONX,2024,5,Antenna,5
+BRONX,2024,5,Boiler Equipment,18
+BRONX,2024,5,Construction Fence,119
+BRONX,2024,5,Curb Cut,11
+BRONX,2024,5,Earth Work,21
+BRONX,2024,5,Foundation,47
+BRONX,2024,5,Full Demolition,15
+BRONX,2024,5,General Construction,355
+BRONX,2024,5,Mechanical Systems,111
+BRONX,2024,5,Plumbing,167
+BRONX,2024,5,Protection and Mechanical Methods,27
+BRONX,2024,5,Sidewalk Shed,179
+BRONX,2024,5,Sign,26
+BRONX,2024,5,Solar,98
+BRONX,2024,5,Sprinklers,82
+BRONX,2024,5,Standpipe,25
+BRONX,2024,5,Structural,79
+BRONX,2024,5,Support of Excavation,16
+BRONX,2024,5,Supported Scaffold,62
+BRONX,2024,5,Suspended Scaffold,59
+BRONX,2024,6,Antenna,2
+BRONX,2024,6,Boiler Equipment,17
+BRONX,2024,6,Construction Fence,136
+BRONX,2024,6,Curb Cut,14
+BRONX,2024,6,Earth Work,20
+BRONX,2024,6,Foundation,37
+BRONX,2024,6,Full Demolition,11
+BRONX,2024,6,General Construction,250
+BRONX,2024,6,Mechanical Systems,85
+BRONX,2024,6,Plumbing,116
+BRONX,2024,6,Protection and Mechanical Methods,24
+BRONX,2024,6,Sidewalk Shed,144
+BRONX,2024,6,Sign,17
+BRONX,2024,6,Solar,59
+BRONX,2024,6,Sprinklers,51
+BRONX,2024,6,Standpipe,22
+BRONX,2024,6,Structural,94
+BRONX,2024,6,Support of Excavation,17
+BRONX,2024,6,Supported Scaffold,54
+BRONX,2024,6,Suspended Scaffold,60
+BRONX,2024,7,Antenna,3
+BRONX,2024,7,Boiler Equipment,17
+BRONX,2024,7,Construction Fence,113
+BRONX,2024,7,Curb Cut,10
+BRONX,2024,7,Earth Work,23
+BRONX,2024,7,Foundation,32
+BRONX,2024,7,Full Demolition,12
+BRONX,2024,7,General Construction,268
+BRONX,2024,7,Mechanical Systems,95
+BRONX,2024,7,Plumbing,148
+BRONX,2024,7,Protection and Mechanical Methods,31
+BRONX,2024,7,Sidewalk Shed,192
+BRONX,2024,7,Sign,25
+BRONX,2024,7,Solar,93
+BRONX,2024,7,Sprinklers,69
+BRONX,2024,7,Standpipe,23
+BRONX,2024,7,Structural,81
+BRONX,2024,7,Support of Excavation,27
+BRONX,2024,7,Supported Scaffold,60
+BRONX,2024,7,Suspended Scaffold,52
+BRONX,2024,8,Antenna,3
+BRONX,2024,8,Boiler Equipment,22
+BRONX,2024,8,Construction Fence,93
+BRONX,2024,8,Curb Cut,2
+BRONX,2024,8,Earth Work,18
+BRONX,2024,8,Foundation,47
+BRONX,2024,8,Full Demolition,13
+BRONX,2024,8,General Construction,241
+BRONX,2024,8,Mechanical Systems,84
+BRONX,2024,8,Plumbing,149
+BRONX,2024,8,Protection and Mechanical Methods,28
+BRONX,2024,8,Sidewalk Shed,135
+BRONX,2024,8,Sign,17
+BRONX,2024,8,Solar,131
+BRONX,2024,8,Sprinklers,45
+BRONX,2024,8,Standpipe,24
+BRONX,2024,8,Structural,80
+BRONX,2024,8,Support of Excavation,19
+BRONX,2024,8,Supported Scaffold,57
+BRONX,2024,8,Suspended Scaffold,50
+BRONX,2024,9,Antenna,6
+BRONX,2024,9,Boiler Equipment,13
+BRONX,2024,9,Construction Fence,91
+BRONX,2024,9,Curb Cut,21
+BRONX,2024,9,Earth Work,12
+BRONX,2024,9,Foundation,35
+BRONX,2024,9,Full Demolition,14
+BRONX,2024,9,General Construction,300
+BRONX,2024,9,Mechanical Systems,88
+BRONX,2024,9,Plumbing,151
+BRONX,2024,9,Protection and Mechanical Methods,26
+BRONX,2024,9,Sidewalk Shed,162
+BRONX,2024,9,Sign,10
+BRONX,2024,9,Solar,96
+BRONX,2024,9,Sprinklers,67
+BRONX,2024,9,Standpipe,21
+BRONX,2024,9,Structural,62
+BRONX,2024,9,Support of Excavation,16
+BRONX,2024,9,Supported Scaffold,45
+BRONX,2024,9,Suspended Scaffold,39
+BRONX,2024,10,Antenna,3
+BRONX,2024,10,Boiler Equipment,20
+BRONX,2024,10,Construction Fence,138
+BRONX,2024,10,Curb Cut,7
+BRONX,2024,10,Earth Work,16
+BRONX,2024,10,Foundation,32
+BRONX,2024,10,Full Demolition,21
+BRONX,2024,10,General Construction,280
+BRONX,2024,10,Mechanical Systems,91
+BRONX,2024,10,Plumbing,172
+BRONX,2024,10,Protection and Mechanical Methods,21
+BRONX,2024,10,Sidewalk Shed,143
+BRONX,2024,10,Sign,13
+BRONX,2024,10,Solar,87
+BRONX,2024,10,Sprinklers,58
+BRONX,2024,10,Standpipe,20
+BRONX,2024,10,Structural,76
+BRONX,2024,10,Support of Excavation,19
+BRONX,2024,10,Supported Scaffold,47
+BRONX,2024,10,Suspended Scaffold,49
+BRONX,2024,11,Antenna,1
+BRONX,2024,11,Boiler Equipment,14
+BRONX,2024,11,Construction Fence,109
+BRONX,2024,11,Curb Cut,8
+BRONX,2024,11,Earth Work,15
+BRONX,2024,11,Foundation,43
+BRONX,2024,11,Full Demolition,15
+BRONX,2024,11,General Construction,275
+BRONX,2024,11,Mechanical Systems,107
+BRONX,2024,11,Plumbing,137
+BRONX,2024,11,Protection and Mechanical Methods,31
+BRONX,2024,11,Sidewalk Shed,152
+BRONX,2024,11,Sign,10
+BRONX,2024,11,Solar,76
+BRONX,2024,11,Sprinklers,84
+BRONX,2024,11,Standpipe,42
+BRONX,2024,11,Structural,74
+BRONX,2024,11,Support of Excavation,7
+BRONX,2024,11,Supported Scaffold,43
+BRONX,2024,11,Suspended Scaffold,39
+BRONX,2024,12,Antenna,3
+BRONX,2024,12,Boiler Equipment,14
+BRONX,2024,12,Construction Fence,137
+BRONX,2024,12,Curb Cut,10
+BRONX,2024,12,Earth Work,13
+BRONX,2024,12,Foundation,38
+BRONX,2024,12,Full Demolition,19
+BRONX,2024,12,General Construction,250
+BRONX,2024,12,Mechanical Systems,103
+BRONX,2024,12,Plumbing,148
+BRONX,2024,12,Protection and Mechanical Methods,22
+BRONX,2024,12,Sidewalk Shed,126
+BRONX,2024,12,Sign,12
+BRONX,2024,12,Solar,84
+BRONX,2024,12,Sprinklers,64
+BRONX,2024,12,Standpipe,23
+BRONX,2024,12,Structural,72
+BRONX,2024,12,Support of Excavation,19
+BRONX,2024,12,Supported Scaffold,48
+BRONX,2024,12,Suspended Scaffold,63
+BRONX,2025,1,Antenna,4
+BRONX,2025,1,Boiler Equipment,16
+BRONX,2025,1,Construction Fence,121
+BRONX,2025,1,Curb Cut,14
+BRONX,2025,1,Earth Work,12
+BRONX,2025,1,Foundation,41
+BRONX,2025,1,Full Demolition,13
+BRONX,2025,1,General Construction,291
+BRONX,2025,1,Mechanical Systems,112
+BRONX,2025,1,Plumbing,205
+BRONX,2025,1,Protection and Mechanical Methods,22
+BRONX,2025,1,Sidewalk Shed,151
+BRONX,2025,1,Sign,11
+BRONX,2025,1,Solar,104
+BRONX,2025,1,Sprinklers,94
+BRONX,2025,1,Standpipe,37
+BRONX,2025,1,Structural,88
+BRONX,2025,1,Support of Excavation,17
+BRONX,2025,1,Supported Scaffold,47
+BRONX,2025,1,Suspended Scaffold,64
+BRONX,2025,2,Antenna,11
+BRONX,2025,2,Boiler Equipment,9
+BRONX,2025,2,Construction Fence,110
+BRONX,2025,2,Curb Cut,8
+BRONX,2025,2,Earth Work,20
+BRONX,2025,2,Foundation,23
+BRONX,2025,2,Full Demolition,15
+BRONX,2025,2,General Construction,341
+BRONX,2025,2,Mechanical Systems,110
+BRONX,2025,2,Plumbing,139
+BRONX,2025,2,Protection and Mechanical Methods,18
+BRONX,2025,2,Sidewalk Shed,186
+BRONX,2025,2,Sign,21
+BRONX,2025,2,Solar,65
+BRONX,2025,2,Sprinklers,59
+BRONX,2025,2,Standpipe,14
+BRONX,2025,2,Structural,80
+BRONX,2025,2,Support of Excavation,10
+BRONX,2025,2,Supported Scaffold,38
+BRONX,2025,2,Suspended Scaffold,56
+BRONX,2025,3,Antenna,7
+BRONX,2025,3,Boiler Equipment,21
+BRONX,2025,3,Construction Fence,133
+BRONX,2025,3,Curb Cut,10
+BRONX,2025,3,Earth Work,12
+BRONX,2025,3,Foundation,32
+BRONX,2025,3,Full Demolition,22
+BRONX,2025,3,General Construction,296
+BRONX,2025,3,Mechanical Systems,110
+BRONX,2025,3,Plumbing,154
+BRONX,2025,3,Protection and Mechanical Methods,36
+BRONX,2025,3,Sidewalk Shed,190
+BRONX,2025,3,Sign,17
+BRONX,2025,3,Solar,84
+BRONX,2025,3,Sprinklers,80
+BRONX,2025,3,Standpipe,40
+BRONX,2025,3,Structural,91
+BRONX,2025,3,Support of Excavation,7
+BRONX,2025,3,Supported Scaffold,44
+BRONX,2025,3,Suspended Scaffold,55
+BRONX,2025,4,Antenna,3
+BRONX,2025,4,Boiler Equipment,22
+BRONX,2025,4,Construction Fence,111
+BRONX,2025,4,Curb Cut,8
+BRONX,2025,4,Earth Work,15
+BRONX,2025,4,Foundation,30
+BRONX,2025,4,Full Demolition,35
+BRONX,2025,4,General Construction,311
+BRONX,2025,4,Mechanical Systems,127
+BRONX,2025,4,Plumbing,144
+BRONX,2025,4,Protection and Mechanical Methods,19
+BRONX,2025,4,Sidewalk Shed,170
+BRONX,2025,4,Sign,11
+BRONX,2025,4,Solar,83
+BRONX,2025,4,Sprinklers,75
+BRONX,2025,4,Standpipe,36
+BRONX,2025,4,Structural,103
+BRONX,2025,4,Support of Excavation,13
+BRONX,2025,4,Supported Scaffold,41
+BRONX,2025,4,Suspended Scaffold,64
+BRONX,2025,5,Antenna,5
+BRONX,2025,5,Boiler Equipment,15
+BRONX,2025,5,Construction Fence,144
+BRONX,2025,5,Curb Cut,16
+BRONX,2025,5,Earth Work,30
+BRONX,2025,5,Foundation,42
+BRONX,2025,5,Full Demolition,37
+BRONX,2025,5,General Construction,369
+BRONX,2025,5,Mechanical Systems,115
+BRONX,2025,5,Plumbing,165
+BRONX,2025,5,Protection and Mechanical Methods,58
+BRONX,2025,5,Sidewalk Shed,149
+BRONX,2025,5,Sign,32
+BRONX,2025,5,Solar,100
+BRONX,2025,5,Sprinklers,86
+BRONX,2025,5,Standpipe,19
+BRONX,2025,5,Structural,114
+BRONX,2025,5,Support of Excavation,17
+BRONX,2025,5,Supported Scaffold,37
+BRONX,2025,5,Suspended Scaffold,44
+BRONX,2025,6,Antenna,5
+BRONX,2025,6,Boiler Equipment,23
+BRONX,2025,6,Construction Fence,96
+BRONX,2025,6,Curb Cut,12
+BRONX,2025,6,Earth Work,19
+BRONX,2025,6,Foundation,31
+BRONX,2025,6,Full Demolition,22
+BRONX,2025,6,General Construction,294
+BRONX,2025,6,Mechanical Systems,120
+BRONX,2025,6,Plumbing,142
+BRONX,2025,6,Protection and Mechanical Methods,30
+BRONX,2025,6,Sidewalk Shed,179
+BRONX,2025,6,Sign,11
+BRONX,2025,6,Solar,89
+BRONX,2025,6,Sprinklers,66
+BRONX,2025,6,Standpipe,35
+BRONX,2025,6,Structural,104
+BRONX,2025,6,Support of Excavation,12
+BRONX,2025,6,Supported Scaffold,56
+BRONX,2025,6,Suspended Scaffold,58
+BRONX,2025,7,Antenna,8
+BRONX,2025,7,Boiler Equipment,21
+BRONX,2025,7,Construction Fence,160
+BRONX,2025,7,Curb Cut,6
+BRONX,2025,7,Earth Work,24
+BRONX,2025,7,Foundation,44
+BRONX,2025,7,Full Demolition,21
+BRONX,2025,7,General Construction,309
+BRONX,2025,7,Mechanical Systems,99
+BRONX,2025,7,Plumbing,155
+BRONX,2025,7,Protection and Mechanical Methods,31
+BRONX,2025,7,Sidewalk Shed,204
+BRONX,2025,7,Sign,27
+BRONX,2025,7,Solar,108
+BRONX,2025,7,Sprinklers,55
+BRONX,2025,7,Standpipe,21
+BRONX,2025,7,Structural,94
+BRONX,2025,7,Support of Excavation,29
+BRONX,2025,7,Supported Scaffold,58
+BRONX,2025,7,Suspended Scaffold,73
+BRONX,2025,8,Antenna,2
+BRONX,2025,8,Boiler Equipment,13
+BRONX,2025,8,Construction Fence,93
+BRONX,2025,8,Curb Cut,14
+BRONX,2025,8,Earth Work,17
+BRONX,2025,8,Foundation,34
+BRONX,2025,8,Full Demolition,19
+BRONX,2025,8,General Construction,235
+BRONX,2025,8,Mechanical Systems,101
+BRONX,2025,8,Plumbing,127
+BRONX,2025,8,Protection and Mechanical Methods,25
+BRONX,2025,8,Sidewalk Shed,142
+BRONX,2025,8,Sign,12
+BRONX,2025,8,Solar,75
+BRONX,2025,8,Sprinklers,48
+BRONX,2025,8,Standpipe,20
+BRONX,2025,8,Structural,70
+BRONX,2025,8,Support of Excavation,13
+BRONX,2025,8,Supported Scaffold,50
+BRONX,2025,8,Suspended Scaffold,63
+BRONX,2025,9,Antenna,4
+BRONX,2025,9,Boiler Equipment,24
+BRONX,2025,9,Construction Fence,144
+BRONX,2025,9,Curb Cut,14
+BRONX,2025,9,Earth Work,20
+BRONX,2025,9,Foundation,47
+BRONX,2025,9,Full Demolition,30
+BRONX,2025,9,General Construction,264
+BRONX,2025,9,Mechanical Systems,102
+BRONX,2025,9,Plumbing,147
+BRONX,2025,9,Protection and Mechanical Methods,33
+BRONX,2025,9,Sidewalk Shed,138
+BRONX,2025,9,Sign,17
+BRONX,2025,9,Solar,74
+BRONX,2025,9,Sprinklers,58
+BRONX,2025,9,Standpipe,22
+BRONX,2025,9,Structural,87
+BRONX,2025,9,Support of Excavation,19
+BRONX,2025,9,Supported Scaffold,45
+BRONX,2025,9,Suspended Scaffold,35
+BRONX,2025,10,Antenna,2
+BRONX,2025,10,Boiler Equipment,25
+BRONX,2025,10,Construction Fence,100
+BRONX,2025,10,Curb Cut,12
+BRONX,2025,10,Earth Work,29
+BRONX,2025,10,Foundation,66
+BRONX,2025,10,Full Demolition,26
+BRONX,2025,10,General Construction,308
+BRONX,2025,10,Mechanical Systems,100
+BRONX,2025,10,Plumbing,143
+BRONX,2025,10,Protection and Mechanical Methods,36
+BRONX,2025,10,Sidewalk Shed,156
+BRONX,2025,10,Sign,12
+BRONX,2025,10,Solar,94
+BRONX,2025,10,Sprinklers,51
+BRONX,2025,10,Standpipe,22
+BRONX,2025,10,Structural,122
+BRONX,2025,10,Support of Excavation,19
+BRONX,2025,10,Supported Scaffold,29
+BRONX,2025,10,Suspended Scaffold,67
+BRONX,2025,11,Antenna,1
+BRONX,2025,11,Boiler Equipment,8
+BRONX,2025,11,Construction Fence,100
+BRONX,2025,11,Curb Cut,9
+BRONX,2025,11,Earth Work,31
+BRONX,2025,11,Foundation,41
+BRONX,2025,11,Full Demolition,20
+BRONX,2025,11,General Construction,258
+BRONX,2025,11,Green Roof,1
+BRONX,2025,11,Mechanical Systems,95
+BRONX,2025,11,Plumbing,131
+BRONX,2025,11,Protection and Mechanical Methods,34
+BRONX,2025,11,Sidewalk Shed,130
+BRONX,2025,11,Sign,31
+BRONX,2025,11,Solar,73
+BRONX,2025,11,Sprinklers,56
+BRONX,2025,11,Standpipe,26
+BRONX,2025,11,Structural,93
+BRONX,2025,11,Support of Excavation,19
+BRONX,2025,11,Supported Scaffold,39
+BRONX,2025,11,Suspended Scaffold,46
+BRONX,2025,12,Antenna,4
+BRONX,2025,12,Boiler Equipment,10
+BRONX,2025,12,Construction Fence,120
+BRONX,2025,12,Curb Cut,6
+BRONX,2025,12,Earth Work,25
+BRONX,2025,12,Foundation,50
+BRONX,2025,12,Full Demolition,20
+BRONX,2025,12,General Construction,280
+BRONX,2025,12,Mechanical Systems,119
+BRONX,2025,12,Plumbing,158
+BRONX,2025,12,Protection and Mechanical Methods,39
+BRONX,2025,12,Sidewalk Shed,116
+BRONX,2025,12,Sign,11
+BRONX,2025,12,Solar,88
+BRONX,2025,12,Sprinklers,81
+BRONX,2025,12,Standpipe,47
+BRONX,2025,12,Structural,110
+BRONX,2025,12,Support of Excavation,38
+BRONX,2025,12,Supported Scaffold,45
+BRONX,2025,12,Suspended Scaffold,43
+BROOKLYN,2023,1,Antenna,33
+BROOKLYN,2023,1,Boiler Equipment,46
+BROOKLYN,2023,1,Construction Fence,321
+BROOKLYN,2023,1,Curb Cut,20
+BROOKLYN,2023,1,Earth Work,54
+BROOKLYN,2023,1,Foundation,131
+BROOKLYN,2023,1,General Construction,840
+BROOKLYN,2023,1,Mechanical Systems,332
+BROOKLYN,2023,1,Plumbing,542
+BROOKLYN,2023,1,Protection and Mechanical Methods,71
+BROOKLYN,2023,1,Sidewalk Shed,229
+BROOKLYN,2023,1,Sign,58
+BROOKLYN,2023,1,Sprinklers,195
+BROOKLYN,2023,1,Standpipe,52
+BROOKLYN,2023,1,Structural,255
+BROOKLYN,2023,1,Support of Excavation,71
+BROOKLYN,2023,1,Supported Scaffold,150
+BROOKLYN,2023,2,Antenna,40
+BROOKLYN,2023,2,Boiler Equipment,41
+BROOKLYN,2023,2,Construction Fence,286
+BROOKLYN,2023,2,Curb Cut,20
+BROOKLYN,2023,2,Earth Work,59
+BROOKLYN,2023,2,Foundation,108
+BROOKLYN,2023,2,General Construction,724
+BROOKLYN,2023,2,Mechanical Systems,302
+BROOKLYN,2023,2,Plumbing,523
+BROOKLYN,2023,2,Protection and Mechanical Methods,33
+BROOKLYN,2023,2,Sidewalk Shed,263
+BROOKLYN,2023,2,Sign,59
+BROOKLYN,2023,2,Sprinklers,176
+BROOKLYN,2023,2,Standpipe,52
+BROOKLYN,2023,2,Structural,233
+BROOKLYN,2023,2,Support of Excavation,37
+BROOKLYN,2023,2,Supported Scaffold,132
+BROOKLYN,2023,3,Antenna,49
+BROOKLYN,2023,3,Boiler Equipment,47
+BROOKLYN,2023,3,Construction Fence,354
+BROOKLYN,2023,3,Curb Cut,24
+BROOKLYN,2023,3,Earth Work,66
+BROOKLYN,2023,3,Foundation,143
+BROOKLYN,2023,3,Full Demolition,1
+BROOKLYN,2023,3,General Construction,783
+BROOKLYN,2023,3,Mechanical Systems,327
+BROOKLYN,2023,3,Plumbing,588
+BROOKLYN,2023,3,Protection and Mechanical Methods,77
+BROOKLYN,2023,3,Sidewalk Shed,350
+BROOKLYN,2023,3,Sign,54
+BROOKLYN,2023,3,Sprinklers,238
+BROOKLYN,2023,3,Standpipe,74
+BROOKLYN,2023,3,Structural,275
+BROOKLYN,2023,3,Support of Excavation,65
+BROOKLYN,2023,3,Supported Scaffold,207
+BROOKLYN,2023,4,Antenna,20
+BROOKLYN,2023,4,Boiler Equipment,32
+BROOKLYN,2023,4,Construction Fence,284
+BROOKLYN,2023,4,Curb Cut,17
+BROOKLYN,2023,4,Earth Work,42
+BROOKLYN,2023,4,Foundation,118
+BROOKLYN,2023,4,General Construction,745
+BROOKLYN,2023,4,Mechanical Systems,297
+BROOKLYN,2023,4,Plumbing,503
+BROOKLYN,2023,4,Protection and Mechanical Methods,59
+BROOKLYN,2023,4,Sidewalk Shed,342
+BROOKLYN,2023,4,Sign,52
+BROOKLYN,2023,4,Sprinklers,199
+BROOKLYN,2023,4,Standpipe,31
+BROOKLYN,2023,4,Structural,227
+BROOKLYN,2023,4,Support of Excavation,63
+BROOKLYN,2023,4,Supported Scaffold,160
+BROOKLYN,2023,5,Antenna,35
+BROOKLYN,2023,5,Boiler Equipment,35
+BROOKLYN,2023,5,Construction Fence,387
+BROOKLYN,2023,5,Curb Cut,21
+BROOKLYN,2023,5,Earth Work,71
+BROOKLYN,2023,5,Foundation,179
+BROOKLYN,2023,5,Full Demolition,7
+BROOKLYN,2023,5,General Construction,936
+BROOKLYN,2023,5,Mechanical Systems,340
+BROOKLYN,2023,5,Plumbing,543
+BROOKLYN,2023,5,Protection and Mechanical Methods,91
+BROOKLYN,2023,5,Sidewalk Shed,357
+BROOKLYN,2023,5,Sign,54
+BROOKLYN,2023,5,Sprinklers,172
+BROOKLYN,2023,5,Standpipe,43
+BROOKLYN,2023,5,Structural,333
+BROOKLYN,2023,5,Support of Excavation,68
+BROOKLYN,2023,5,Supported Scaffold,202
+BROOKLYN,2023,6,Antenna,32
+BROOKLYN,2023,6,Boiler Equipment,37
+BROOKLYN,2023,6,Construction Fence,315
+BROOKLYN,2023,6,Curb Cut,17
+BROOKLYN,2023,6,Earth Work,72
+BROOKLYN,2023,6,Foundation,158
+BROOKLYN,2023,6,Full Demolition,15
+BROOKLYN,2023,6,General Construction,844
+BROOKLYN,2023,6,Mechanical Systems,263
+BROOKLYN,2023,6,Plumbing,541
+BROOKLYN,2023,6,Protection and Mechanical Methods,77
+BROOKLYN,2023,6,Sidewalk Shed,306
+BROOKLYN,2023,6,Sign,80
+BROOKLYN,2023,6,Sprinklers,198
+BROOKLYN,2023,6,Standpipe,58
+BROOKLYN,2023,6,Structural,284
+BROOKLYN,2023,6,Support of Excavation,68
+BROOKLYN,2023,6,Supported Scaffold,183
+BROOKLYN,2023,7,Antenna,27
+BROOKLYN,2023,7,Boiler Equipment,49
+BROOKLYN,2023,7,Construction Fence,238
+BROOKLYN,2023,7,Curb Cut,20
+BROOKLYN,2023,7,Earth Work,52
+BROOKLYN,2023,7,Foundation,117
+BROOKLYN,2023,7,Full Demolition,6
+BROOKLYN,2023,7,General Construction,802
+BROOKLYN,2023,7,Mechanical Systems,297
+BROOKLYN,2023,7,Plumbing,503
+BROOKLYN,2023,7,Protection and Mechanical Methods,73
+BROOKLYN,2023,7,Sidewalk Shed,332
+BROOKLYN,2023,7,Sign,59
+BROOKLYN,2023,7,Sprinklers,185
+BROOKLYN,2023,7,Standpipe,48
+BROOKLYN,2023,7,Structural,246
+BROOKLYN,2023,7,Support of Excavation,48
+BROOKLYN,2023,7,Supported Scaffold,204
+BROOKLYN,2023,8,Antenna,22
+BROOKLYN,2023,8,Boiler Equipment,43
+BROOKLYN,2023,8,Construction Fence,293
+BROOKLYN,2023,8,Curb Cut,18
+BROOKLYN,2023,8,Earth Work,59
+BROOKLYN,2023,8,Foundation,154
+BROOKLYN,2023,8,Full Demolition,8
+BROOKLYN,2023,8,General Construction,847
+BROOKLYN,2023,8,Mechanical Systems,337
+BROOKLYN,2023,8,Plumbing,501
+BROOKLYN,2023,8,Protection and Mechanical Methods,73
+BROOKLYN,2023,8,Sidewalk Shed,309
+BROOKLYN,2023,8,Sign,72
+BROOKLYN,2023,8,Sprinklers,178
+BROOKLYN,2023,8,Standpipe,53
+BROOKLYN,2023,8,Structural,296
+BROOKLYN,2023,8,Support of Excavation,70
+BROOKLYN,2023,8,Supported Scaffold,164
+BROOKLYN,2023,9,Antenna,20
+BROOKLYN,2023,9,Boiler Equipment,45
+BROOKLYN,2023,9,Construction Fence,251
+BROOKLYN,2023,9,Curb Cut,24
+BROOKLYN,2023,9,Earth Work,45
+BROOKLYN,2023,9,Foundation,119
+BROOKLYN,2023,9,Full Demolition,15
+BROOKLYN,2023,9,General Construction,695
+BROOKLYN,2023,9,Mechanical Systems,261
+BROOKLYN,2023,9,Plumbing,477
+BROOKLYN,2023,9,Protection and Mechanical Methods,71
+BROOKLYN,2023,9,Sidewalk Shed,297
+BROOKLYN,2023,9,Sign,51
+BROOKLYN,2023,9,Sprinklers,148
+BROOKLYN,2023,9,Standpipe,24
+BROOKLYN,2023,9,Structural,219
+BROOKLYN,2023,9,Support of Excavation,41
+BROOKLYN,2023,9,Supported Scaffold,174
+BROOKLYN,2023,10,Antenna,18
+BROOKLYN,2023,10,Boiler Equipment,53
+BROOKLYN,2023,10,Construction Fence,299
+BROOKLYN,2023,10,Curb Cut,19
+BROOKLYN,2023,10,Earth Work,61
+BROOKLYN,2023,10,Foundation,124
+BROOKLYN,2023,10,Full Demolition,15
+BROOKLYN,2023,10,General Construction,808
+BROOKLYN,2023,10,Green Roof,2
+BROOKLYN,2023,10,Mechanical Systems,293
+BROOKLYN,2023,10,Plumbing,486
+BROOKLYN,2023,10,Protection and Mechanical Methods,70
+BROOKLYN,2023,10,Sidewalk Shed,268
+BROOKLYN,2023,10,Sign,48
+BROOKLYN,2023,10,Sprinklers,169
+BROOKLYN,2023,10,Standpipe,51
+BROOKLYN,2023,10,Structural,234
+BROOKLYN,2023,10,Support of Excavation,57
+BROOKLYN,2023,10,Supported Scaffold,172
+BROOKLYN,2023,11,Antenna,17
+BROOKLYN,2023,11,Boiler Equipment,36
+BROOKLYN,2023,11,Construction Fence,237
+BROOKLYN,2023,11,Curb Cut,31
+BROOKLYN,2023,11,Earth Work,47
+BROOKLYN,2023,11,Foundation,122
+BROOKLYN,2023,11,Full Demolition,23
+BROOKLYN,2023,11,General Construction,776
+BROOKLYN,2023,11,Mechanical Systems,309
+BROOKLYN,2023,11,Plumbing,493
+BROOKLYN,2023,11,Protection and Mechanical Methods,65
+BROOKLYN,2023,11,Sidewalk Shed,200
+BROOKLYN,2023,11,Sign,76
+BROOKLYN,2023,11,Solar,1
+BROOKLYN,2023,11,Sprinklers,174
+BROOKLYN,2023,11,Standpipe,41
+BROOKLYN,2023,11,Structural,248
+BROOKLYN,2023,11,Support of Excavation,43
+BROOKLYN,2023,11,Supported Scaffold,111
+BROOKLYN,2023,11,Suspended Scaffold,2
+BROOKLYN,2023,12,Antenna,10
+BROOKLYN,2023,12,Boiler Equipment,42
+BROOKLYN,2023,12,Construction Fence,302
+BROOKLYN,2023,12,Curb Cut,14
+BROOKLYN,2023,12,Earth Work,53
+BROOKLYN,2023,12,Foundation,130
+BROOKLYN,2023,12,Full Demolition,34
+BROOKLYN,2023,12,General Construction,729
+BROOKLYN,2023,12,Mechanical Systems,293
+BROOKLYN,2023,12,Plumbing,467
+BROOKLYN,2023,12,Protection and Mechanical Methods,60
+BROOKLYN,2023,12,Sidewalk Shed,260
+BROOKLYN,2023,12,Sign,56
+BROOKLYN,2023,12,Solar,44
+BROOKLYN,2023,12,Sprinklers,177
+BROOKLYN,2023,12,Standpipe,57
+BROOKLYN,2023,12,Structural,243
+BROOKLYN,2023,12,Support of Excavation,64
+BROOKLYN,2023,12,Supported Scaffold,148
+BROOKLYN,2023,12,Suspended Scaffold,54
+BROOKLYN,2024,1,Antenna,14
+BROOKLYN,2024,1,Boiler Equipment,44
+BROOKLYN,2024,1,Construction Fence,273
+BROOKLYN,2024,1,Curb Cut,20
+BROOKLYN,2024,1,Earth Work,35
+BROOKLYN,2024,1,Foundation,113
+BROOKLYN,2024,1,Full Demolition,24
+BROOKLYN,2024,1,General Construction,762
+BROOKLYN,2024,1,Mechanical Systems,310
+BROOKLYN,2024,1,Plumbing,551
+BROOKLYN,2024,1,Protection and Mechanical Methods,64
+BROOKLYN,2024,1,Sidewalk Shed,342
+BROOKLYN,2024,1,Sign,44
+BROOKLYN,2024,1,Solar,152
+BROOKLYN,2024,1,Sprinklers,208
+BROOKLYN,2024,1,Standpipe,57
+BROOKLYN,2024,1,Structural,229
+BROOKLYN,2024,1,Support of Excavation,43
+BROOKLYN,2024,1,Supported Scaffold,199
+BROOKLYN,2024,1,Suspended Scaffold,109
+BROOKLYN,2024,2,Antenna,8
+BROOKLYN,2024,2,Boiler Equipment,22
+BROOKLYN,2024,2,Construction Fence,292
+BROOKLYN,2024,2,Curb Cut,26
+BROOKLYN,2024,2,Earth Work,73
+BROOKLYN,2024,2,Foundation,128
+BROOKLYN,2024,2,Full Demolition,32
+BROOKLYN,2024,2,General Construction,783
+BROOKLYN,2024,2,Mechanical Systems,280
+BROOKLYN,2024,2,Plumbing,421
+BROOKLYN,2024,2,Protection and Mechanical Methods,58
+BROOKLYN,2024,2,Sidewalk Shed,222
+BROOKLYN,2024,2,Sign,45
+BROOKLYN,2024,2,Solar,163
+BROOKLYN,2024,2,Sprinklers,158
+BROOKLYN,2024,2,Standpipe,46
+BROOKLYN,2024,2,Structural,273
+BROOKLYN,2024,2,Support of Excavation,55
+BROOKLYN,2024,2,Supported Scaffold,125
+BROOKLYN,2024,2,Suspended Scaffold,71
+BROOKLYN,2024,3,Antenna,12
+BROOKLYN,2024,3,Boiler Equipment,40
+BROOKLYN,2024,3,Construction Fence,296
+BROOKLYN,2024,3,Curb Cut,28
+BROOKLYN,2024,3,Earth Work,70
+BROOKLYN,2024,3,Foundation,122
+BROOKLYN,2024,3,Full Demolition,16
+BROOKLYN,2024,3,General Construction,852
+BROOKLYN,2024,3,Mechanical Systems,366
+BROOKLYN,2024,3,Plumbing,537
+BROOKLYN,2024,3,Protection and Mechanical Methods,60
+BROOKLYN,2024,3,Sidewalk Shed,329
+BROOKLYN,2024,3,Sign,42
+BROOKLYN,2024,3,Solar,133
+BROOKLYN,2024,3,Sprinklers,182
+BROOKLYN,2024,3,Standpipe,45
+BROOKLYN,2024,3,Structural,275
+BROOKLYN,2024,3,Support of Excavation,56
+BROOKLYN,2024,3,Supported Scaffold,168
+BROOKLYN,2024,3,Suspended Scaffold,63
+BROOKLYN,2024,4,Antenna,7
+BROOKLYN,2024,4,Boiler Equipment,42
+BROOKLYN,2024,4,Construction Fence,318
+BROOKLYN,2024,4,Curb Cut,15
+BROOKLYN,2024,4,Earth Work,48
+BROOKLYN,2024,4,Foundation,122
+BROOKLYN,2024,4,Full Demolition,24
+BROOKLYN,2024,4,General Construction,888
+BROOKLYN,2024,4,Mechanical Systems,379
+BROOKLYN,2024,4,Plumbing,568
+BROOKLYN,2024,4,Protection and Mechanical Methods,79
+BROOKLYN,2024,4,Sidewalk Shed,353
+BROOKLYN,2024,4,Sign,51
+BROOKLYN,2024,4,Solar,165
+BROOKLYN,2024,4,Sprinklers,229
+BROOKLYN,2024,4,Standpipe,66
+BROOKLYN,2024,4,Structural,274
+BROOKLYN,2024,4,Support of Excavation,60
+BROOKLYN,2024,4,Supported Scaffold,193
+BROOKLYN,2024,4,Suspended Scaffold,84
+BROOKLYN,2024,5,Antenna,7
+BROOKLYN,2024,5,Boiler Equipment,41
+BROOKLYN,2024,5,Construction Fence,286
+BROOKLYN,2024,5,Curb Cut,19
+BROOKLYN,2024,5,Earth Work,63
+BROOKLYN,2024,5,Foundation,161
+BROOKLYN,2024,5,Full Demolition,29
+BROOKLYN,2024,5,General Construction,912
+BROOKLYN,2024,5,Mechanical Systems,333
+BROOKLYN,2024,5,Plumbing,591
+BROOKLYN,2024,5,Protection and Mechanical Methods,101
+BROOKLYN,2024,5,Sidewalk Shed,304
+BROOKLYN,2024,5,Sign,73
+BROOKLYN,2024,5,Solar,189
+BROOKLYN,2024,5,Sprinklers,241
+BROOKLYN,2024,5,Standpipe,94
+BROOKLYN,2024,5,Structural,286
+BROOKLYN,2024,5,Support of Excavation,69
+BROOKLYN,2024,5,Supported Scaffold,194
+BROOKLYN,2024,5,Suspended Scaffold,71
+BROOKLYN,2024,6,Antenna,2
+BROOKLYN,2024,6,Boiler Equipment,25
+BROOKLYN,2024,6,Construction Fence,245
+BROOKLYN,2024,6,Curb Cut,27
+BROOKLYN,2024,6,Earth Work,48
+BROOKLYN,2024,6,Foundation,109
+BROOKLYN,2024,6,Full Demolition,37
+BROOKLYN,2024,6,General Construction,775
+BROOKLYN,2024,6,Mechanical Systems,297
+BROOKLYN,2024,6,Plumbing,435
+BROOKLYN,2024,6,Protection and Mechanical Methods,80
+BROOKLYN,2024,6,Sidewalk Shed,257
+BROOKLYN,2024,6,Sign,58
+BROOKLYN,2024,6,Solar,125
+BROOKLYN,2024,6,Sprinklers,163
+BROOKLYN,2024,6,Standpipe,47
+BROOKLYN,2024,6,Structural,296
+BROOKLYN,2024,6,Support of Excavation,48
+BROOKLYN,2024,6,Supported Scaffold,163
+BROOKLYN,2024,6,Suspended Scaffold,64
+BROOKLYN,2024,7,Antenna,7
+BROOKLYN,2024,7,Boiler Equipment,26
+BROOKLYN,2024,7,Construction Fence,308
+BROOKLYN,2024,7,Curb Cut,30
+BROOKLYN,2024,7,Earth Work,54
+BROOKLYN,2024,7,Foundation,139
+BROOKLYN,2024,7,Full Demolition,28
+BROOKLYN,2024,7,General Construction,957
+BROOKLYN,2024,7,Mechanical Systems,366
+BROOKLYN,2024,7,Plumbing,503
+BROOKLYN,2024,7,Protection and Mechanical Methods,84
+BROOKLYN,2024,7,Sidewalk Shed,344
+BROOKLYN,2024,7,Sign,59
+BROOKLYN,2024,7,Solar,198
+BROOKLYN,2024,7,Sprinklers,214
+BROOKLYN,2024,7,Standpipe,70
+BROOKLYN,2024,7,Structural,279
+BROOKLYN,2024,7,Support of Excavation,56
+BROOKLYN,2024,7,Supported Scaffold,204
+BROOKLYN,2024,7,Suspended Scaffold,81
+BROOKLYN,2024,8,Antenna,9
+BROOKLYN,2024,8,Boiler Equipment,49
+BROOKLYN,2024,8,Construction Fence,243
+BROOKLYN,2024,8,Curb Cut,20
+BROOKLYN,2024,8,Earth Work,73
+BROOKLYN,2024,8,Foundation,144
+BROOKLYN,2024,8,Full Demolition,22
+BROOKLYN,2024,8,General Construction,920
+BROOKLYN,2024,8,Mechanical Systems,365
+BROOKLYN,2024,8,Plumbing,527
+BROOKLYN,2024,8,Protection and Mechanical Methods,73
+BROOKLYN,2024,8,Sidewalk Shed,254
+BROOKLYN,2024,8,Sign,40
+BROOKLYN,2024,8,Solar,185
+BROOKLYN,2024,8,Sprinklers,171
+BROOKLYN,2024,8,Standpipe,46
+BROOKLYN,2024,8,Structural,309
+BROOKLYN,2024,8,Support of Excavation,60
+BROOKLYN,2024,8,Supported Scaffold,164
+BROOKLYN,2024,8,Suspended Scaffold,75
+BROOKLYN,2024,9,Antenna,7
+BROOKLYN,2024,9,Boiler Equipment,30
+BROOKLYN,2024,9,Construction Fence,287
+BROOKLYN,2024,9,Curb Cut,31
+BROOKLYN,2024,9,Earth Work,66
+BROOKLYN,2024,9,Foundation,142
+BROOKLYN,2024,9,Full Demolition,48
+BROOKLYN,2024,9,General Construction,879
+BROOKLYN,2024,9,Mechanical Systems,307
+BROOKLYN,2024,9,Plumbing,504
+BROOKLYN,2024,9,Protection and Mechanical Methods,76
+BROOKLYN,2024,9,Sidewalk Shed,310
+BROOKLYN,2024,9,Sign,39
+BROOKLYN,2024,9,Solar,141
+BROOKLYN,2024,9,Sprinklers,179
+BROOKLYN,2024,9,Standpipe,56
+BROOKLYN,2024,9,Structural,278
+BROOKLYN,2024,9,Support of Excavation,78
+BROOKLYN,2024,9,Supported Scaffold,168
+BROOKLYN,2024,9,Suspended Scaffold,63
+BROOKLYN,2024,10,Antenna,15
+BROOKLYN,2024,10,Boiler Equipment,37
+BROOKLYN,2024,10,Construction Fence,301
+BROOKLYN,2024,10,Curb Cut,22
+BROOKLYN,2024,10,Earth Work,52
+BROOKLYN,2024,10,Foundation,144
+BROOKLYN,2024,10,Full Demolition,28
+BROOKLYN,2024,10,General Construction,861
+BROOKLYN,2024,10,Mechanical Systems,283
+BROOKLYN,2024,10,Plumbing,500
+BROOKLYN,2024,10,Protection and Mechanical Methods,59
+BROOKLYN,2024,10,Sidewalk Shed,254
+BROOKLYN,2024,10,Sign,53
+BROOKLYN,2024,10,Solar,161
+BROOKLYN,2024,10,Sprinklers,146
+BROOKLYN,2024,10,Standpipe,38
+BROOKLYN,2024,10,Structural,273
+BROOKLYN,2024,10,Support of Excavation,44
+BROOKLYN,2024,10,Supported Scaffold,171
+BROOKLYN,2024,10,Suspended Scaffold,85
+BROOKLYN,2024,11,Antenna,2
+BROOKLYN,2024,11,Boiler Equipment,27
+BROOKLYN,2024,11,Construction Fence,256
+BROOKLYN,2024,11,Curb Cut,29
+BROOKLYN,2024,11,Earth Work,47
+BROOKLYN,2024,11,Foundation,117
+BROOKLYN,2024,11,Full Demolition,36
+BROOKLYN,2024,11,General Construction,863
+BROOKLYN,2024,11,Mechanical Systems,267
+BROOKLYN,2024,11,Plumbing,486
+BROOKLYN,2024,11,Protection and Mechanical Methods,59
+BROOKLYN,2024,11,Sidewalk Shed,248
+BROOKLYN,2024,11,Sign,64
+BROOKLYN,2024,11,Solar,145
+BROOKLYN,2024,11,Sprinklers,165
+BROOKLYN,2024,11,Standpipe,60
+BROOKLYN,2024,11,Structural,240
+BROOKLYN,2024,11,Support of Excavation,44
+BROOKLYN,2024,11,Supported Scaffold,135
+BROOKLYN,2024,11,Suspended Scaffold,49
+BROOKLYN,2024,12,Antenna,15
+BROOKLYN,2024,12,Boiler Equipment,36
+BROOKLYN,2024,12,Construction Fence,259
+BROOKLYN,2024,12,Curb Cut,26
+BROOKLYN,2024,12,Earth Work,64
+BROOKLYN,2024,12,Foundation,143
+BROOKLYN,2024,12,Full Demolition,24
+BROOKLYN,2024,12,General Construction,833
+BROOKLYN,2024,12,Mechanical Systems,338
+BROOKLYN,2024,12,Plumbing,482
+BROOKLYN,2024,12,Protection and Mechanical Methods,63
+BROOKLYN,2024,12,Sidewalk Shed,203
+BROOKLYN,2024,12,Sign,49
+BROOKLYN,2024,12,Solar,154
+BROOKLYN,2024,12,Sprinklers,167
+BROOKLYN,2024,12,Standpipe,53
+BROOKLYN,2024,12,Structural,254
+BROOKLYN,2024,12,Support of Excavation,65
+BROOKLYN,2024,12,Supported Scaffold,120
+BROOKLYN,2024,12,Suspended Scaffold,68
+BROOKLYN,2025,1,Antenna,15
+BROOKLYN,2025,1,Boiler Equipment,26
+BROOKLYN,2025,1,Construction Fence,351
+BROOKLYN,2025,1,Curb Cut,19
+BROOKLYN,2025,1,Earth Work,60
+BROOKLYN,2025,1,Foundation,141
+BROOKLYN,2025,1,Full Demolition,33
+BROOKLYN,2025,1,General Construction,871
+BROOKLYN,2025,1,Green Roof,1
+BROOKLYN,2025,1,Mechanical Systems,376
+BROOKLYN,2025,1,Plumbing,499
+BROOKLYN,2025,1,Protection and Mechanical Methods,61
+BROOKLYN,2025,1,Sidewalk Shed,315
+BROOKLYN,2025,1,Sign,44
+BROOKLYN,2025,1,Solar,149
+BROOKLYN,2025,1,Sprinklers,172
+BROOKLYN,2025,1,Standpipe,53
+BROOKLYN,2025,1,Structural,289
+BROOKLYN,2025,1,Support of Excavation,52
+BROOKLYN,2025,1,Supported Scaffold,155
+BROOKLYN,2025,1,Suspended Scaffold,55
+BROOKLYN,2025,2,Antenna,23
+BROOKLYN,2025,2,Boiler Equipment,23
+BROOKLYN,2025,2,Construction Fence,250
+BROOKLYN,2025,2,Curb Cut,28
+BROOKLYN,2025,2,Earth Work,46
+BROOKLYN,2025,2,Foundation,131
+BROOKLYN,2025,2,Full Demolition,17
+BROOKLYN,2025,2,General Construction,769
+BROOKLYN,2025,2,Mechanical Systems,264
+BROOKLYN,2025,2,Plumbing,475
+BROOKLYN,2025,2,Protection and Mechanical Methods,64
+BROOKLYN,2025,2,Sidewalk Shed,182
+BROOKLYN,2025,2,Sign,47
+BROOKLYN,2025,2,Solar,103
+BROOKLYN,2025,2,Sprinklers,173
+BROOKLYN,2025,2,Standpipe,41
+BROOKLYN,2025,2,Structural,229
+BROOKLYN,2025,2,Support of Excavation,37
+BROOKLYN,2025,2,Supported Scaffold,106
+BROOKLYN,2025,2,Suspended Scaffold,81
+BROOKLYN,2025,3,Antenna,24
+BROOKLYN,2025,3,Boiler Equipment,38
+BROOKLYN,2025,3,Construction Fence,334
+BROOKLYN,2025,3,Curb Cut,28
+BROOKLYN,2025,3,Earth Work,59
+BROOKLYN,2025,3,Foundation,111
+BROOKLYN,2025,3,Full Demolition,37
+BROOKLYN,2025,3,General Construction,986
+BROOKLYN,2025,3,Mechanical Systems,398
+BROOKLYN,2025,3,Plumbing,528
+BROOKLYN,2025,3,Protection and Mechanical Methods,77
+BROOKLYN,2025,3,Sidewalk Shed,292
+BROOKLYN,2025,3,Sign,61
+BROOKLYN,2025,3,Solar,166
+BROOKLYN,2025,3,Sprinklers,167
+BROOKLYN,2025,3,Standpipe,41
+BROOKLYN,2025,3,Structural,294
+BROOKLYN,2025,3,Support of Excavation,59
+BROOKLYN,2025,3,Supported Scaffold,157
+BROOKLYN,2025,3,Suspended Scaffold,67
+BROOKLYN,2025,4,Antenna,9
+BROOKLYN,2025,4,Boiler Equipment,37
+BROOKLYN,2025,4,Construction Fence,285
+BROOKLYN,2025,4,Curb Cut,22
+BROOKLYN,2025,4,Earth Work,75
+BROOKLYN,2025,4,Foundation,134
+BROOKLYN,2025,4,Full Demolition,35
+BROOKLYN,2025,4,General Construction,930
+BROOKLYN,2025,4,Mechanical Systems,338
+BROOKLYN,2025,4,Plumbing,558
+BROOKLYN,2025,4,Protection and Mechanical Methods,54
+BROOKLYN,2025,4,Sidewalk Shed,288
+BROOKLYN,2025,4,Sign,43
+BROOKLYN,2025,4,Solar,159
+BROOKLYN,2025,4,Sprinklers,144
+BROOKLYN,2025,4,Standpipe,28
+BROOKLYN,2025,4,Structural,290
+BROOKLYN,2025,4,Support of Excavation,53
+BROOKLYN,2025,4,Supported Scaffold,148
+BROOKLYN,2025,4,Suspended Scaffold,91
+BROOKLYN,2025,5,Antenna,10
+BROOKLYN,2025,5,Boiler Equipment,32
+BROOKLYN,2025,5,Construction Fence,312
+BROOKLYN,2025,5,Curb Cut,29
+BROOKLYN,2025,5,Earth Work,60
+BROOKLYN,2025,5,Foundation,187
+BROOKLYN,2025,5,Full Demolition,49
+BROOKLYN,2025,5,General Construction,898
+BROOKLYN,2025,5,Green Roof,2
+BROOKLYN,2025,5,Mechanical Systems,294
+BROOKLYN,2025,5,Plumbing,504
+BROOKLYN,2025,5,Protection and Mechanical Methods,69
+BROOKLYN,2025,5,Sidewalk Shed,285
+BROOKLYN,2025,5,Sign,52
+BROOKLYN,2025,5,Solar,122
+BROOKLYN,2025,5,Sprinklers,205
+BROOKLYN,2025,5,Standpipe,82
+BROOKLYN,2025,5,Structural,338
+BROOKLYN,2025,5,Support of Excavation,75
+BROOKLYN,2025,5,Supported Scaffold,156
+BROOKLYN,2025,5,Suspended Scaffold,60
+BROOKLYN,2025,6,Antenna,16
+BROOKLYN,2025,6,Boiler Equipment,33
+BROOKLYN,2025,6,Construction Fence,264
+BROOKLYN,2025,6,Curb Cut,23
+BROOKLYN,2025,6,Earth Work,64
+BROOKLYN,2025,6,Foundation,143
+BROOKLYN,2025,6,Full Demolition,22
+BROOKLYN,2025,6,General Construction,884
+BROOKLYN,2025,6,Mechanical Systems,292
+BROOKLYN,2025,6,Plumbing,531
+BROOKLYN,2025,6,Protection and Mechanical Methods,65
+BROOKLYN,2025,6,Sidewalk Shed,252
+BROOKLYN,2025,6,Sign,67
+BROOKLYN,2025,6,Solar,123
+BROOKLYN,2025,6,Sprinklers,164
+BROOKLYN,2025,6,Standpipe,49
+BROOKLYN,2025,6,Structural,309
+BROOKLYN,2025,6,Support of Excavation,57
+BROOKLYN,2025,6,Supported Scaffold,163
+BROOKLYN,2025,6,Suspended Scaffold,70
+BROOKLYN,2025,7,Antenna,15
+BROOKLYN,2025,7,Boiler Equipment,45
+BROOKLYN,2025,7,Construction Fence,261
+BROOKLYN,2025,7,Curb Cut,29
+BROOKLYN,2025,7,Earth Work,64
+BROOKLYN,2025,7,Foundation,163
+BROOKLYN,2025,7,Full Demolition,37
+BROOKLYN,2025,7,General Construction,1036
+BROOKLYN,2025,7,Mechanical Systems,335
+BROOKLYN,2025,7,Plumbing,599
+BROOKLYN,2025,7,Protection and Mechanical Methods,63
+BROOKLYN,2025,7,Sidewalk Shed,296
+BROOKLYN,2025,7,Sign,65
+BROOKLYN,2025,7,Solar,147
+BROOKLYN,2025,7,Sprinklers,215
+BROOKLYN,2025,7,Standpipe,70
+BROOKLYN,2025,7,Structural,344
+BROOKLYN,2025,7,Support of Excavation,62
+BROOKLYN,2025,7,Supported Scaffold,198
+BROOKLYN,2025,7,Suspended Scaffold,78
+BROOKLYN,2025,8,Antenna,17
+BROOKLYN,2025,8,Boiler Equipment,29
+BROOKLYN,2025,8,Construction Fence,226
+BROOKLYN,2025,8,Curb Cut,20
+BROOKLYN,2025,8,Earth Work,56
+BROOKLYN,2025,8,Foundation,140
+BROOKLYN,2025,8,Full Demolition,23
+BROOKLYN,2025,8,General Construction,840
+BROOKLYN,2025,8,Mechanical Systems,275
+BROOKLYN,2025,8,Plumbing,488
+BROOKLYN,2025,8,Protection and Mechanical Methods,56
+BROOKLYN,2025,8,Sidewalk Shed,258
+BROOKLYN,2025,8,Sign,64
+BROOKLYN,2025,8,Solar,177
+BROOKLYN,2025,8,Sprinklers,170
+BROOKLYN,2025,8,Standpipe,44
+BROOKLYN,2025,8,Structural,272
+BROOKLYN,2025,8,Support of Excavation,47
+BROOKLYN,2025,8,Supported Scaffold,146
+BROOKLYN,2025,8,Suspended Scaffold,61
+BROOKLYN,2025,9,Antenna,14
+BROOKLYN,2025,9,Boiler Equipment,38
+BROOKLYN,2025,9,Construction Fence,290
+BROOKLYN,2025,9,Curb Cut,28
+BROOKLYN,2025,9,Earth Work,62
+BROOKLYN,2025,9,Foundation,149
+BROOKLYN,2025,9,Full Demolition,31
+BROOKLYN,2025,9,General Construction,903
+BROOKLYN,2025,9,Mechanical Systems,280
+BROOKLYN,2025,9,Plumbing,501
+BROOKLYN,2025,9,Protection and Mechanical Methods,75
+BROOKLYN,2025,9,Sidewalk Shed,307
+BROOKLYN,2025,9,Sign,54
+BROOKLYN,2025,9,Solar,160
+BROOKLYN,2025,9,Sprinklers,153
+BROOKLYN,2025,9,Standpipe,36
+BROOKLYN,2025,9,Structural,257
+BROOKLYN,2025,9,Support of Excavation,56
+BROOKLYN,2025,9,Supported Scaffold,185
+BROOKLYN,2025,9,Suspended Scaffold,60
+BROOKLYN,2025,10,Antenna,11
+BROOKLYN,2025,10,Boiler Equipment,39
+BROOKLYN,2025,10,Construction Fence,237
+BROOKLYN,2025,10,Curb Cut,30
+BROOKLYN,2025,10,Earth Work,54
+BROOKLYN,2025,10,Foundation,140
+BROOKLYN,2025,10,Full Demolition,20
+BROOKLYN,2025,10,General Construction,941
+BROOKLYN,2025,10,Mechanical Systems,360
+BROOKLYN,2025,10,Plumbing,496
+BROOKLYN,2025,10,Protection and Mechanical Methods,41
+BROOKLYN,2025,10,Sidewalk Shed,218
+BROOKLYN,2025,10,Sign,68
+BROOKLYN,2025,10,Solar,196
+BROOKLYN,2025,10,Sprinklers,162
+BROOKLYN,2025,10,Standpipe,28
+BROOKLYN,2025,10,Structural,290
+BROOKLYN,2025,10,Support of Excavation,61
+BROOKLYN,2025,10,Supported Scaffold,138
+BROOKLYN,2025,10,Suspended Scaffold,55
+BROOKLYN,2025,11,Antenna,4
+BROOKLYN,2025,11,Boiler Equipment,32
+BROOKLYN,2025,11,Construction Fence,261
+BROOKLYN,2025,11,Curb Cut,19
+BROOKLYN,2025,11,Earth Work,50
+BROOKLYN,2025,11,Foundation,121
+BROOKLYN,2025,11,Full Demolition,31
+BROOKLYN,2025,11,General Construction,765
+BROOKLYN,2025,11,Mechanical Systems,245
+BROOKLYN,2025,11,Plumbing,392
+BROOKLYN,2025,11,Protection and Mechanical Methods,60
+BROOKLYN,2025,11,Sidewalk Shed,241
+BROOKLYN,2025,11,Sign,60
+BROOKLYN,2025,11,Solar,147
+BROOKLYN,2025,11,Sprinklers,144
+BROOKLYN,2025,11,Standpipe,42
+BROOKLYN,2025,11,Structural,227
+BROOKLYN,2025,11,Support of Excavation,60
+BROOKLYN,2025,11,Supported Scaffold,131
+BROOKLYN,2025,11,Suspended Scaffold,58
+BROOKLYN,2025,12,Antenna,8
+BROOKLYN,2025,12,Boiler Equipment,48
+BROOKLYN,2025,12,Construction Fence,329
+BROOKLYN,2025,12,Curb Cut,45
+BROOKLYN,2025,12,Earth Work,109
+BROOKLYN,2025,12,Foundation,192
+BROOKLYN,2025,12,Full Demolition,36
+BROOKLYN,2025,12,General Construction,959
+BROOKLYN,2025,12,Mechanical Systems,311
+BROOKLYN,2025,12,Plumbing,493
+BROOKLYN,2025,12,Protection and Mechanical Methods,73
+BROOKLYN,2025,12,Sidewalk Shed,202
+BROOKLYN,2025,12,Sign,38
+BROOKLYN,2025,12,Solar,167
+BROOKLYN,2025,12,Sprinklers,175
+BROOKLYN,2025,12,Standpipe,61
+BROOKLYN,2025,12,Structural,332
+BROOKLYN,2025,12,Support of Excavation,81
+BROOKLYN,2025,12,Supported Scaffold,115
+BROOKLYN,2025,12,Suspended Scaffold,60
+MANHATTAN,2023,1,Antenna,61
+MANHATTAN,2023,1,Boiler Equipment,43
+MANHATTAN,2023,1,Construction Fence,122
+MANHATTAN,2023,1,Curb Cut,2
+MANHATTAN,2023,1,Earth Work,8
+MANHATTAN,2023,1,Foundation,44
+MANHATTAN,2023,1,General Construction,1415
+MANHATTAN,2023,1,Mechanical Systems,674
+MANHATTAN,2023,1,Plumbing,883
+MANHATTAN,2023,1,Protection and Mechanical Methods,86
+MANHATTAN,2023,1,Sidewalk Shed,407
+MANHATTAN,2023,1,Sign,128
+MANHATTAN,2023,1,Sprinklers,490
+MANHATTAN,2023,1,Standpipe,129
+MANHATTAN,2023,1,Structural,316
+MANHATTAN,2023,1,Support of Excavation,18
+MANHATTAN,2023,1,Supported Scaffold,192
+MANHATTAN,2023,2,Antenna,52
+MANHATTAN,2023,2,Boiler Equipment,42
+MANHATTAN,2023,2,Construction Fence,154
+MANHATTAN,2023,2,Curb Cut,8
+MANHATTAN,2023,2,Earth Work,10
+MANHATTAN,2023,2,Foundation,21
+MANHATTAN,2023,2,General Construction,1291
+MANHATTAN,2023,2,Mechanical Systems,483
+MANHATTAN,2023,2,Plumbing,803
+MANHATTAN,2023,2,Protection and Mechanical Methods,100
+MANHATTAN,2023,2,Sidewalk Shed,541
+MANHATTAN,2023,2,Sign,75
+MANHATTAN,2023,2,Sprinklers,388
+MANHATTAN,2023,2,Standpipe,76
+MANHATTAN,2023,2,Structural,220
+MANHATTAN,2023,2,Support of Excavation,9
+MANHATTAN,2023,2,Supported Scaffold,246
+MANHATTAN,2023,3,Antenna,57
+MANHATTAN,2023,3,Boiler Equipment,51
+MANHATTAN,2023,3,Construction Fence,245
+MANHATTAN,2023,3,Curb Cut,8
+MANHATTAN,2023,3,Earth Work,8
+MANHATTAN,2023,3,Foundation,32
+MANHATTAN,2023,3,Full Demolition,2
+MANHATTAN,2023,3,General Construction,1633
+MANHATTAN,2023,3,Mechanical Systems,657
+MANHATTAN,2023,3,Plumbing,936
+MANHATTAN,2023,3,Protection and Mechanical Methods,126
+MANHATTAN,2023,3,Sidewalk Shed,566
+MANHATTAN,2023,3,Sign,98
+MANHATTAN,2023,3,Sprinklers,474
+MANHATTAN,2023,3,Standpipe,92
+MANHATTAN,2023,3,Structural,312
+MANHATTAN,2023,3,Support of Excavation,22
+MANHATTAN,2023,3,Supported Scaffold,281
+MANHATTAN,2023,4,Antenna,44
+MANHATTAN,2023,4,Boiler Equipment,30
+MANHATTAN,2023,4,Construction Fence,157
+MANHATTAN,2023,4,Curb Cut,8
+MANHATTAN,2023,4,Earth Work,7
+MANHATTAN,2023,4,Foundation,24
+MANHATTAN,2023,4,General Construction,1421
+MANHATTAN,2023,4,Mechanical Systems,588
+MANHATTAN,2023,4,Plumbing,802
+MANHATTAN,2023,4,Protection and Mechanical Methods,150
+MANHATTAN,2023,4,Sidewalk Shed,458
+MANHATTAN,2023,4,Sign,102
+MANHATTAN,2023,4,Sprinklers,367
+MANHATTAN,2023,4,Standpipe,76
+MANHATTAN,2023,4,Structural,291
+MANHATTAN,2023,4,Support of Excavation,17
+MANHATTAN,2023,4,Supported Scaffold,275
+MANHATTAN,2023,5,Antenna,45
+MANHATTAN,2023,5,Boiler Equipment,54
+MANHATTAN,2023,5,Construction Fence,151
+MANHATTAN,2023,5,Curb Cut,2
+MANHATTAN,2023,5,Earth Work,9
+MANHATTAN,2023,5,Foundation,29
+MANHATTAN,2023,5,General Construction,1661
+MANHATTAN,2023,5,Mechanical Systems,622
+MANHATTAN,2023,5,Plumbing,851
+MANHATTAN,2023,5,Protection and Mechanical Methods,172
+MANHATTAN,2023,5,Sidewalk Shed,563
+MANHATTAN,2023,5,Sign,85
+MANHATTAN,2023,5,Sprinklers,430
+MANHATTAN,2023,5,Standpipe,89
+MANHATTAN,2023,5,Structural,280
+MANHATTAN,2023,5,Support of Excavation,11
+MANHATTAN,2023,5,Supported Scaffold,269
+MANHATTAN,2023,6,Antenna,36
+MANHATTAN,2023,6,Boiler Equipment,56
+MANHATTAN,2023,6,Construction Fence,144
+MANHATTAN,2023,6,Curb Cut,3
+MANHATTAN,2023,6,Earth Work,7
+MANHATTAN,2023,6,Foundation,39
+MANHATTAN,2023,6,General Construction,1484
+MANHATTAN,2023,6,Mechanical Systems,602
+MANHATTAN,2023,6,Plumbing,881
+MANHATTAN,2023,6,Protection and Mechanical Methods,145
+MANHATTAN,2023,6,Sidewalk Shed,515
+MANHATTAN,2023,6,Sign,122
+MANHATTAN,2023,6,Sprinklers,475
+MANHATTAN,2023,6,Standpipe,100
+MANHATTAN,2023,6,Structural,303
+MANHATTAN,2023,6,Support of Excavation,16
+MANHATTAN,2023,6,Supported Scaffold,307
+MANHATTAN,2023,7,Antenna,41
+MANHATTAN,2023,7,Boiler Equipment,52
+MANHATTAN,2023,7,Construction Fence,107
+MANHATTAN,2023,7,Curb Cut,2
+MANHATTAN,2023,7,Earth Work,7
+MANHATTAN,2023,7,Foundation,28
+MANHATTAN,2023,7,Full Demolition,5
+MANHATTAN,2023,7,General Construction,1312
+MANHATTAN,2023,7,Mechanical Systems,496
+MANHATTAN,2023,7,Plumbing,767
+MANHATTAN,2023,7,Protection and Mechanical Methods,111
+MANHATTAN,2023,7,Sidewalk Shed,478
+MANHATTAN,2023,7,Sign,69
+MANHATTAN,2023,7,Sprinklers,417
+MANHATTAN,2023,7,Standpipe,76
+MANHATTAN,2023,7,Structural,240
+MANHATTAN,2023,7,Support of Excavation,11
+MANHATTAN,2023,7,Supported Scaffold,344
+MANHATTAN,2023,8,Antenna,44
+MANHATTAN,2023,8,Boiler Equipment,43
+MANHATTAN,2023,8,Construction Fence,114
+MANHATTAN,2023,8,Earth Work,1
+MANHATTAN,2023,8,Foundation,22
+MANHATTAN,2023,8,Full Demolition,1
+MANHATTAN,2023,8,General Construction,1529
+MANHATTAN,2023,8,Mechanical Systems,611
+MANHATTAN,2023,8,Plumbing,893
+MANHATTAN,2023,8,Protection and Mechanical Methods,120
+MANHATTAN,2023,8,Sidewalk Shed,470
+MANHATTAN,2023,8,Sign,97
+MANHATTAN,2023,8,Sprinklers,461
+MANHATTAN,2023,8,Standpipe,90
+MANHATTAN,2023,8,Structural,305
+MANHATTAN,2023,8,Support of Excavation,12
+MANHATTAN,2023,8,Supported Scaffold,302
+MANHATTAN,2023,9,Antenna,32
+MANHATTAN,2023,9,Boiler Equipment,59
+MANHATTAN,2023,9,Construction Fence,181
+MANHATTAN,2023,9,Earth Work,11
+MANHATTAN,2023,9,Foundation,34
+MANHATTAN,2023,9,Full Demolition,1
+MANHATTAN,2023,9,General Construction,1348
+MANHATTAN,2023,9,Mechanical Systems,563
+MANHATTAN,2023,9,Plumbing,701
+MANHATTAN,2023,9,Protection and Mechanical Methods,233
+MANHATTAN,2023,9,Sidewalk Shed,549
+MANHATTAN,2023,9,Sign,90
+MANHATTAN,2023,9,Sprinklers,363
+MANHATTAN,2023,9,Standpipe,76
+MANHATTAN,2023,9,Structural,312
+MANHATTAN,2023,9,Support of Excavation,13
+MANHATTAN,2023,9,Supported Scaffold,302
+MANHATTAN,2023,10,Antenna,28
+MANHATTAN,2023,10,Boiler Equipment,53
+MANHATTAN,2023,10,Construction Fence,144
+MANHATTAN,2023,10,Curb Cut,2
+MANHATTAN,2023,10,Earth Work,16
+MANHATTAN,2023,10,Foundation,35
+MANHATTAN,2023,10,Full Demolition,3
+MANHATTAN,2023,10,General Construction,1358
+MANHATTAN,2023,10,Green Roof,2
+MANHATTAN,2023,10,Mechanical Systems,538
+MANHATTAN,2023,10,Plumbing,788
+MANHATTAN,2023,10,Protection and Mechanical Methods,125
+MANHATTAN,2023,10,Sidewalk Shed,427
+MANHATTAN,2023,10,Sign,96
+MANHATTAN,2023,10,Solar,2
+MANHATTAN,2023,10,Sprinklers,410
+MANHATTAN,2023,10,Standpipe,74
+MANHATTAN,2023,10,Structural,275
+MANHATTAN,2023,10,Support of Excavation,16
+MANHATTAN,2023,10,Supported Scaffold,241
+MANHATTAN,2023,10,Suspended Scaffold,2
+MANHATTAN,2023,11,Antenna,17
+MANHATTAN,2023,11,Boiler Equipment,36
+MANHATTAN,2023,11,Construction Fence,94
+MANHATTAN,2023,11,Curb Cut,1
+MANHATTAN,2023,11,Earth Work,13
+MANHATTAN,2023,11,Foundation,38
+MANHATTAN,2023,11,Full Demolition,2
+MANHATTAN,2023,11,General Construction,1243
+MANHATTAN,2023,11,Mechanical Systems,474
+MANHATTAN,2023,11,Plumbing,706
+MANHATTAN,2023,11,Protection and Mechanical Methods,99
+MANHATTAN,2023,11,Sidewalk Shed,357
+MANHATTAN,2023,11,Sign,81
+MANHATTAN,2023,11,Solar,1
+MANHATTAN,2023,11,Sprinklers,354
+MANHATTAN,2023,11,Standpipe,65
+MANHATTAN,2023,11,Structural,245
+MANHATTAN,2023,11,Support of Excavation,21
+MANHATTAN,2023,11,Supported Scaffold,199
+MANHATTAN,2023,11,Suspended Scaffold,9
+MANHATTAN,2023,12,Antenna,44
+MANHATTAN,2023,12,Boiler Equipment,37
+MANHATTAN,2023,12,Construction Fence,130
+MANHATTAN,2023,12,Curb Cut,3
+MANHATTAN,2023,12,Earth Work,8
+MANHATTAN,2023,12,Foundation,41
+MANHATTAN,2023,12,Full Demolition,4
+MANHATTAN,2023,12,General Construction,1282
+MANHATTAN,2023,12,Mechanical Systems,574
+MANHATTAN,2023,12,Plumbing,649
+MANHATTAN,2023,12,Protection and Mechanical Methods,114
+MANHATTAN,2023,12,Sidewalk Shed,379
+MANHATTAN,2023,12,Sign,62
+MANHATTAN,2023,12,Solar,2
+MANHATTAN,2023,12,Sprinklers,325
+MANHATTAN,2023,12,Standpipe,72
+MANHATTAN,2023,12,Structural,291
+MANHATTAN,2023,12,Support of Excavation,20
+MANHATTAN,2023,12,Supported Scaffold,196
+MANHATTAN,2023,12,Suspended Scaffold,269
+MANHATTAN,2024,1,Antenna,25
+MANHATTAN,2024,1,Boiler Equipment,46
+MANHATTAN,2024,1,Construction Fence,125
+MANHATTAN,2024,1,Curb Cut,5
+MANHATTAN,2024,1,Earth Work,15
+MANHATTAN,2024,1,Foundation,33
+MANHATTAN,2024,1,General Construction,1393
+MANHATTAN,2024,1,Mechanical Systems,607
+MANHATTAN,2024,1,Plumbing,831
+MANHATTAN,2024,1,Protection and Mechanical Methods,119
+MANHATTAN,2024,1,Sidewalk Shed,516
+MANHATTAN,2024,1,Sign,83
+MANHATTAN,2024,1,Solar,4
+MANHATTAN,2024,1,Sprinklers,444
+MANHATTAN,2024,1,Standpipe,100
+MANHATTAN,2024,1,Structural,318
+MANHATTAN,2024,1,Support of Excavation,13
+MANHATTAN,2024,1,Supported Scaffold,186
+MANHATTAN,2024,1,Suspended Scaffold,417
+MANHATTAN,2024,2,Antenna,18
+MANHATTAN,2024,2,Boiler Equipment,32
+MANHATTAN,2024,2,Construction Fence,133
+MANHATTAN,2024,2,Curb Cut,1
+MANHATTAN,2024,2,Earth Work,6
+MANHATTAN,2024,2,Foundation,32
+MANHATTAN,2024,2,Full Demolition,4
+MANHATTAN,2024,2,General Construction,1212
+MANHATTAN,2024,2,Mechanical Systems,504
+MANHATTAN,2024,2,Plumbing,752
+MANHATTAN,2024,2,Protection and Mechanical Methods,151
+MANHATTAN,2024,2,Sidewalk Shed,569
+MANHATTAN,2024,2,Sign,79
+MANHATTAN,2024,2,Solar,5
+MANHATTAN,2024,2,Sprinklers,386
+MANHATTAN,2024,2,Standpipe,90
+MANHATTAN,2024,2,Structural,271
+MANHATTAN,2024,2,Support of Excavation,19
+MANHATTAN,2024,2,Supported Scaffold,238
+MANHATTAN,2024,2,Suspended Scaffold,280
+MANHATTAN,2024,3,Antenna,22
+MANHATTAN,2024,3,Boiler Equipment,37
+MANHATTAN,2024,3,Construction Fence,124
+MANHATTAN,2024,3,Curb Cut,5
+MANHATTAN,2024,3,Earth Work,6
+MANHATTAN,2024,3,Foundation,35
+MANHATTAN,2024,3,Full Demolition,10
+MANHATTAN,2024,3,General Construction,1269
+MANHATTAN,2024,3,Mechanical Systems,525
+MANHATTAN,2024,3,Plumbing,776
+MANHATTAN,2024,3,Protection and Mechanical Methods,121
+MANHATTAN,2024,3,Sidewalk Shed,486
+MANHATTAN,2024,3,Sign,63
+MANHATTAN,2024,3,Solar,6
+MANHATTAN,2024,3,Sprinklers,393
+MANHATTAN,2024,3,Standpipe,76
+MANHATTAN,2024,3,Structural,275
+MANHATTAN,2024,3,Support of Excavation,22
+MANHATTAN,2024,3,Supported Scaffold,236
+MANHATTAN,2024,3,Suspended Scaffold,358
+MANHATTAN,2024,4,Antenna,26
+MANHATTAN,2024,4,Boiler Equipment,49
+MANHATTAN,2024,4,Construction Fence,128
+MANHATTAN,2024,4,Curb Cut,1
+MANHATTAN,2024,4,Earth Work,9
+MANHATTAN,2024,4,Foundation,46
+MANHATTAN,2024,4,Full Demolition,10
+MANHATTAN,2024,4,General Construction,1346
+MANHATTAN,2024,4,Mechanical Systems,591
+MANHATTAN,2024,4,Plumbing,737
+MANHATTAN,2024,4,Protection and Mechanical Methods,130
+MANHATTAN,2024,4,Sidewalk Shed,448
+MANHATTAN,2024,4,Sign,45
+MANHATTAN,2024,4,Solar,6
+MANHATTAN,2024,4,Sprinklers,431
+MANHATTAN,2024,4,Standpipe,83
+MANHATTAN,2024,4,Structural,331
+MANHATTAN,2024,4,Support of Excavation,23
+MANHATTAN,2024,4,Supported Scaffold,234
+MANHATTAN,2024,4,Suspended Scaffold,311
+MANHATTAN,2024,5,Antenna,17
+MANHATTAN,2024,5,Boiler Equipment,44
+MANHATTAN,2024,5,Construction Fence,161
+MANHATTAN,2024,5,Curb Cut,1
+MANHATTAN,2024,5,Earth Work,6
+MANHATTAN,2024,5,Foundation,32
+MANHATTAN,2024,5,Full Demolition,12
+MANHATTAN,2024,5,General Construction,1633
+MANHATTAN,2024,5,Mechanical Systems,630
+MANHATTAN,2024,5,Plumbing,836
+MANHATTAN,2024,5,Protection and Mechanical Methods,143
+MANHATTAN,2024,5,Sidewalk Shed,492
+MANHATTAN,2024,5,Sign,73
+MANHATTAN,2024,5,Solar,1
+MANHATTAN,2024,5,Sprinklers,465
+MANHATTAN,2024,5,Standpipe,81
+MANHATTAN,2024,5,Structural,356
+MANHATTAN,2024,5,Support of Excavation,11
+MANHATTAN,2024,5,Supported Scaffold,319
+MANHATTAN,2024,5,Suspended Scaffold,341
+MANHATTAN,2024,6,Antenna,20
+MANHATTAN,2024,6,Boiler Equipment,49
+MANHATTAN,2024,6,Construction Fence,126
+MANHATTAN,2024,6,Curb Cut,1
+MANHATTAN,2024,6,Earth Work,7
+MANHATTAN,2024,6,Foundation,30
+MANHATTAN,2024,6,Full Demolition,6
+MANHATTAN,2024,6,General Construction,1317
+MANHATTAN,2024,6,Mechanical Systems,451
+MANHATTAN,2024,6,Plumbing,712
+MANHATTAN,2024,6,Protection and Mechanical Methods,133
+MANHATTAN,2024,6,Sidewalk Shed,418
+MANHATTAN,2024,6,Sign,97
+MANHATTAN,2024,6,Solar,5
+MANHATTAN,2024,6,Sprinklers,356
+MANHATTAN,2024,6,Standpipe,66
+MANHATTAN,2024,6,Structural,282
+MANHATTAN,2024,6,Support of Excavation,15
+MANHATTAN,2024,6,Supported Scaffold,273
+MANHATTAN,2024,6,Suspended Scaffold,282
+MANHATTAN,2024,7,Antenna,16
+MANHATTAN,2024,7,Boiler Equipment,58
+MANHATTAN,2024,7,Construction Fence,154
+MANHATTAN,2024,7,Curb Cut,5
+MANHATTAN,2024,7,Earth Work,11
+MANHATTAN,2024,7,Foundation,41
+MANHATTAN,2024,7,Full Demolition,13
+MANHATTAN,2024,7,General Construction,1479
+MANHATTAN,2024,7,Mechanical Systems,631
+MANHATTAN,2024,7,Plumbing,763
+MANHATTAN,2024,7,Protection and Mechanical Methods,115
+MANHATTAN,2024,7,Sidewalk Shed,551
+MANHATTAN,2024,7,Sign,78
+MANHATTAN,2024,7,Solar,4
+MANHATTAN,2024,7,Sprinklers,384
+MANHATTAN,2024,7,Standpipe,98
+MANHATTAN,2024,7,Structural,313
+MANHATTAN,2024,7,Support of Excavation,11
+MANHATTAN,2024,7,Supported Scaffold,302
+MANHATTAN,2024,7,Suspended Scaffold,303
+MANHATTAN,2024,8,Antenna,10
+MANHATTAN,2024,8,Boiler Equipment,54
+MANHATTAN,2024,8,Construction Fence,128
+MANHATTAN,2024,8,Curb Cut,3
+MANHATTAN,2024,8,Earth Work,11
+MANHATTAN,2024,8,Foundation,48
+MANHATTAN,2024,8,Full Demolition,3
+MANHATTAN,2024,8,General Construction,1416
+MANHATTAN,2024,8,Mechanical Systems,552
+MANHATTAN,2024,8,Plumbing,712
+MANHATTAN,2024,8,Protection and Mechanical Methods,150
+MANHATTAN,2024,8,Sidewalk Shed,457
+MANHATTAN,2024,8,Sign,95
+MANHATTAN,2024,8,Solar,4
+MANHATTAN,2024,8,Sprinklers,410
+MANHATTAN,2024,8,Standpipe,91
+MANHATTAN,2024,8,Structural,330
+MANHATTAN,2024,8,Support of Excavation,27
+MANHATTAN,2024,8,Supported Scaffold,283
+MANHATTAN,2024,8,Suspended Scaffold,304
+MANHATTAN,2024,9,Antenna,20
+MANHATTAN,2024,9,Boiler Equipment,49
+MANHATTAN,2024,9,Construction Fence,158
+MANHATTAN,2024,9,Curb Cut,1
+MANHATTAN,2024,9,Earth Work,10
+MANHATTAN,2024,9,Foundation,38
+MANHATTAN,2024,9,Full Demolition,9
+MANHATTAN,2024,9,General Construction,1411
+MANHATTAN,2024,9,Mechanical Systems,565
+MANHATTAN,2024,9,Plumbing,662
+MANHATTAN,2024,9,Protection and Mechanical Methods,181
+MANHATTAN,2024,9,Sidewalk Shed,500
+MANHATTAN,2024,9,Sign,102
+MANHATTAN,2024,9,Solar,5
+MANHATTAN,2024,9,Sprinklers,347
+MANHATTAN,2024,9,Standpipe,70
+MANHATTAN,2024,9,Structural,323
+MANHATTAN,2024,9,Support of Excavation,18
+MANHATTAN,2024,9,Supported Scaffold,295
+MANHATTAN,2024,9,Suspended Scaffold,194
+MANHATTAN,2024,10,Antenna,20
+MANHATTAN,2024,10,Boiler Equipment,56
+MANHATTAN,2024,10,Construction Fence,174
+MANHATTAN,2024,10,Curb Cut,2
+MANHATTAN,2024,10,Earth Work,17
+MANHATTAN,2024,10,Foundation,42
+MANHATTAN,2024,10,Full Demolition,1
+MANHATTAN,2024,10,General Construction,1489
+MANHATTAN,2024,10,Mechanical Systems,585
+MANHATTAN,2024,10,Plumbing,793
+MANHATTAN,2024,10,Protection and Mechanical Methods,141
+MANHATTAN,2024,10,Sidewalk Shed,551
+MANHATTAN,2024,10,Sign,94
+MANHATTAN,2024,10,Solar,9
+MANHATTAN,2024,10,Sprinklers,375
+MANHATTAN,2024,10,Standpipe,71
+MANHATTAN,2024,10,Structural,305
+MANHATTAN,2024,10,Support of Excavation,19
+MANHATTAN,2024,10,Supported Scaffold,321
+MANHATTAN,2024,10,Suspended Scaffold,252
+MANHATTAN,2024,11,Antenna,7
+MANHATTAN,2024,11,Boiler Equipment,37
+MANHATTAN,2024,11,Construction Fence,107
+MANHATTAN,2024,11,Curb Cut,2
+MANHATTAN,2024,11,Earth Work,13
+MANHATTAN,2024,11,Foundation,40
+MANHATTAN,2024,11,Full Demolition,11
+MANHATTAN,2024,11,General Construction,1197
+MANHATTAN,2024,11,Mechanical Systems,509
+MANHATTAN,2024,11,Plumbing,661
+MANHATTAN,2024,11,Protection and Mechanical Methods,136
+MANHATTAN,2024,11,Sidewalk Shed,345
+MANHATTAN,2024,11,Sign,60
+MANHATTAN,2024,11,Solar,6
+MANHATTAN,2024,11,Sprinklers,342
+MANHATTAN,2024,11,Standpipe,63
+MANHATTAN,2024,11,Structural,231
+MANHATTAN,2024,11,Support of Excavation,15
+MANHATTAN,2024,11,Supported Scaffold,238
+MANHATTAN,2024,11,Suspended Scaffold,170
+MANHATTAN,2024,12,Antenna,19
+MANHATTAN,2024,12,Boiler Equipment,29
+MANHATTAN,2024,12,Construction Fence,151
+MANHATTAN,2024,12,Curb Cut,3
+MANHATTAN,2024,12,Earth Work,13
+MANHATTAN,2024,12,Foundation,46
+MANHATTAN,2024,12,Full Demolition,14
+MANHATTAN,2024,12,General Construction,1241
+MANHATTAN,2024,12,Mechanical Systems,539
+MANHATTAN,2024,12,Plumbing,594
+MANHATTAN,2024,12,Protection and Mechanical Methods,167
+MANHATTAN,2024,12,Sidewalk Shed,420
+MANHATTAN,2024,12,Sign,81
+MANHATTAN,2024,12,Solar,5
+MANHATTAN,2024,12,Sprinklers,329
+MANHATTAN,2024,12,Standpipe,85
+MANHATTAN,2024,12,Structural,327
+MANHATTAN,2024,12,Support of Excavation,23
+MANHATTAN,2024,12,Supported Scaffold,195
+MANHATTAN,2024,12,Suspended Scaffold,220
+MANHATTAN,2025,1,Antenna,9
+MANHATTAN,2025,1,Boiler Equipment,35
+MANHATTAN,2025,1,Construction Fence,101
+MANHATTAN,2025,1,Curb Cut,1
+MANHATTAN,2025,1,Earth Work,9
+MANHATTAN,2025,1,Foundation,41
+MANHATTAN,2025,1,Full Demolition,8
+MANHATTAN,2025,1,General Construction,1392
+MANHATTAN,2025,1,Mechanical Systems,551
+MANHATTAN,2025,1,Plumbing,762
+MANHATTAN,2025,1,Protection and Mechanical Methods,92
+MANHATTAN,2025,1,Sidewalk Shed,364
+MANHATTAN,2025,1,Sign,86
+MANHATTAN,2025,1,Solar,1
+MANHATTAN,2025,1,Sprinklers,440
+MANHATTAN,2025,1,Standpipe,111
+MANHATTAN,2025,1,Structural,304
+MANHATTAN,2025,1,Support of Excavation,17
+MANHATTAN,2025,1,Supported Scaffold,175
+MANHATTAN,2025,1,Suspended Scaffold,236
+MANHATTAN,2025,2,Antenna,16
+MANHATTAN,2025,2,Boiler Equipment,45
+MANHATTAN,2025,2,Construction Fence,134
+MANHATTAN,2025,2,Curb Cut,1
+MANHATTAN,2025,2,Earth Work,6
+MANHATTAN,2025,2,Foundation,40
+MANHATTAN,2025,2,Full Demolition,5
+MANHATTAN,2025,2,General Construction,1191
+MANHATTAN,2025,2,Mechanical Systems,483
+MANHATTAN,2025,2,Plumbing,725
+MANHATTAN,2025,2,Protection and Mechanical Methods,137
+MANHATTAN,2025,2,Sidewalk Shed,500
+MANHATTAN,2025,2,Sign,76
+MANHATTAN,2025,2,Solar,17
+MANHATTAN,2025,2,Sprinklers,368
+MANHATTAN,2025,2,Standpipe,71
+MANHATTAN,2025,2,Structural,297
+MANHATTAN,2025,2,Support of Excavation,19
+MANHATTAN,2025,2,Supported Scaffold,208
+MANHATTAN,2025,2,Suspended Scaffold,224
+MANHATTAN,2025,3,Antenna,17
+MANHATTAN,2025,3,Boiler Equipment,68
+MANHATTAN,2025,3,Construction Fence,167
+MANHATTAN,2025,3,Curb Cut,5
+MANHATTAN,2025,3,Earth Work,5
+MANHATTAN,2025,3,Foundation,38
+MANHATTAN,2025,3,Full Demolition,7
+MANHATTAN,2025,3,General Construction,1544
+MANHATTAN,2025,3,Mechanical Systems,638
+MANHATTAN,2025,3,Plumbing,721
+MANHATTAN,2025,3,Protection and Mechanical Methods,160
+MANHATTAN,2025,3,Sidewalk Shed,483
+MANHATTAN,2025,3,Sign,84
+MANHATTAN,2025,3,Solar,5
+MANHATTAN,2025,3,Sprinklers,380
+MANHATTAN,2025,3,Standpipe,79
+MANHATTAN,2025,3,Structural,391
+MANHATTAN,2025,3,Support of Excavation,21
+MANHATTAN,2025,3,Supported Scaffold,273
+MANHATTAN,2025,3,Suspended Scaffold,319
+MANHATTAN,2025,4,Antenna,7
+MANHATTAN,2025,4,Boiler Equipment,52
+MANHATTAN,2025,4,Construction Fence,129
+MANHATTAN,2025,4,Curb Cut,3
+MANHATTAN,2025,4,Earth Work,24
+MANHATTAN,2025,4,Foundation,45
+MANHATTAN,2025,4,Full Demolition,7
+MANHATTAN,2025,4,General Construction,1437
+MANHATTAN,2025,4,Mechanical Systems,615
+MANHATTAN,2025,4,Plumbing,794
+MANHATTAN,2025,4,Protection and Mechanical Methods,144
+MANHATTAN,2025,4,Sidewalk Shed,494
+MANHATTAN,2025,4,Sign,73
+MANHATTAN,2025,4,Solar,7
+MANHATTAN,2025,4,Sprinklers,405
+MANHATTAN,2025,4,Standpipe,92
+MANHATTAN,2025,4,Structural,339
+MANHATTAN,2025,4,Support of Excavation,21
+MANHATTAN,2025,4,Supported Scaffold,303
+MANHATTAN,2025,4,Suspended Scaffold,285
+MANHATTAN,2025,5,Antenna,12
+MANHATTAN,2025,5,Boiler Equipment,42
+MANHATTAN,2025,5,Construction Fence,146
+MANHATTAN,2025,5,Curb Cut,5
+MANHATTAN,2025,5,Earth Work,14
+MANHATTAN,2025,5,Foundation,35
+MANHATTAN,2025,5,Full Demolition,1
+MANHATTAN,2025,5,General Construction,1410
+MANHATTAN,2025,5,Mechanical Systems,565
+MANHATTAN,2025,5,Plumbing,729
+MANHATTAN,2025,5,Protection and Mechanical Methods,151
+MANHATTAN,2025,5,Sidewalk Shed,489
+MANHATTAN,2025,5,Sign,81
+MANHATTAN,2025,5,Solar,4
+MANHATTAN,2025,5,Sprinklers,408
+MANHATTAN,2025,5,Standpipe,90
+MANHATTAN,2025,5,Structural,391
+MANHATTAN,2025,5,Support of Excavation,17
+MANHATTAN,2025,5,Supported Scaffold,262
+MANHATTAN,2025,5,Suspended Scaffold,295
+MANHATTAN,2025,6,Antenna,6
+MANHATTAN,2025,6,Boiler Equipment,36
+MANHATTAN,2025,6,Construction Fence,114
+MANHATTAN,2025,6,Curb Cut,6
+MANHATTAN,2025,6,Earth Work,8
+MANHATTAN,2025,6,Foundation,35
+MANHATTAN,2025,6,Full Demolition,3
+MANHATTAN,2025,6,General Construction,1511
+MANHATTAN,2025,6,Mechanical Systems,623
+MANHATTAN,2025,6,Plumbing,795
+MANHATTAN,2025,6,Protection and Mechanical Methods,173
+MANHATTAN,2025,6,Sidewalk Shed,471
+MANHATTAN,2025,6,Sign,67
+MANHATTAN,2025,6,Solar,6
+MANHATTAN,2025,6,Sprinklers,401
+MANHATTAN,2025,6,Standpipe,66
+MANHATTAN,2025,6,Structural,358
+MANHATTAN,2025,6,Support of Excavation,15
+MANHATTAN,2025,6,Supported Scaffold,290
+MANHATTAN,2025,6,Suspended Scaffold,266
+MANHATTAN,2025,7,Antenna,8
+MANHATTAN,2025,7,Boiler Equipment,65
+MANHATTAN,2025,7,Construction Fence,175
+MANHATTAN,2025,7,Curb Cut,1
+MANHATTAN,2025,7,Earth Work,11
+MANHATTAN,2025,7,Foundation,36
+MANHATTAN,2025,7,Full Demolition,11
+MANHATTAN,2025,7,General Construction,1531
+MANHATTAN,2025,7,Mechanical Systems,627
+MANHATTAN,2025,7,Plumbing,775
+MANHATTAN,2025,7,Protection and Mechanical Methods,143
+MANHATTAN,2025,7,Sidewalk Shed,502
+MANHATTAN,2025,7,Sign,89
+MANHATTAN,2025,7,Solar,12
+MANHATTAN,2025,7,Sprinklers,395
+MANHATTAN,2025,7,Standpipe,74
+MANHATTAN,2025,7,Structural,338
+MANHATTAN,2025,7,Support of Excavation,10
+MANHATTAN,2025,7,Supported Scaffold,288
+MANHATTAN,2025,7,Suspended Scaffold,339
+MANHATTAN,2025,8,Antenna,9
+MANHATTAN,2025,8,Boiler Equipment,52
+MANHATTAN,2025,8,Construction Fence,112
+MANHATTAN,2025,8,Curb Cut,4
+MANHATTAN,2025,8,Earth Work,9
+MANHATTAN,2025,8,Foundation,27
+MANHATTAN,2025,8,Full Demolition,11
+MANHATTAN,2025,8,General Construction,1375
+MANHATTAN,2025,8,Green Roof,1
+MANHATTAN,2025,8,Mechanical Systems,540
+MANHATTAN,2025,8,Plumbing,729
+MANHATTAN,2025,8,Protection and Mechanical Methods,127
+MANHATTAN,2025,8,Sidewalk Shed,439
+MANHATTAN,2025,8,Sign,109
+MANHATTAN,2025,8,Solar,2
+MANHATTAN,2025,8,Sprinklers,409
+MANHATTAN,2025,8,Standpipe,95
+MANHATTAN,2025,8,Structural,311
+MANHATTAN,2025,8,Support of Excavation,10
+MANHATTAN,2025,8,Supported Scaffold,289
+MANHATTAN,2025,8,Suspended Scaffold,268
+MANHATTAN,2025,9,Antenna,12
+MANHATTAN,2025,9,Boiler Equipment,41
+MANHATTAN,2025,9,Construction Fence,200
+MANHATTAN,2025,9,Curb Cut,2
+MANHATTAN,2025,9,Earth Work,8
+MANHATTAN,2025,9,Foundation,40
+MANHATTAN,2025,9,Full Demolition,10
+MANHATTAN,2025,9,General Construction,1499
+MANHATTAN,2025,9,Mechanical Systems,621
+MANHATTAN,2025,9,Plumbing,776
+MANHATTAN,2025,9,Protection and Mechanical Methods,275
+MANHATTAN,2025,9,Sidewalk Shed,539
+MANHATTAN,2025,9,Sign,92
+MANHATTAN,2025,9,Solar,2
+MANHATTAN,2025,9,Sprinklers,407
+MANHATTAN,2025,9,Standpipe,96
+MANHATTAN,2025,9,Structural,370
+MANHATTAN,2025,9,Support of Excavation,18
+MANHATTAN,2025,9,Supported Scaffold,317
+MANHATTAN,2025,9,Suspended Scaffold,250
+MANHATTAN,2025,10,Antenna,21
+MANHATTAN,2025,10,Boiler Equipment,31
+MANHATTAN,2025,10,Construction Fence,135
+MANHATTAN,2025,10,Curb Cut,2
+MANHATTAN,2025,10,Earth Work,17
+MANHATTAN,2025,10,Foundation,55
+MANHATTAN,2025,10,Full Demolition,8
+MANHATTAN,2025,10,General Construction,1503
+MANHATTAN,2025,10,Green Roof,1
+MANHATTAN,2025,10,Mechanical Systems,603
+MANHATTAN,2025,10,Plumbing,775
+MANHATTAN,2025,10,Protection and Mechanical Methods,146
+MANHATTAN,2025,10,Sidewalk Shed,454
+MANHATTAN,2025,10,Sign,124
+MANHATTAN,2025,10,Solar,13
+MANHATTAN,2025,10,Sprinklers,391
+MANHATTAN,2025,10,Standpipe,74
+MANHATTAN,2025,10,Structural,336
+MANHATTAN,2025,10,Support of Excavation,18
+MANHATTAN,2025,10,Supported Scaffold,313
+MANHATTAN,2025,10,Suspended Scaffold,267
+MANHATTAN,2025,11,Antenna,5
+MANHATTAN,2025,11,Boiler Equipment,37
+MANHATTAN,2025,11,Construction Fence,109
+MANHATTAN,2025,11,Curb Cut,1
+MANHATTAN,2025,11,Earth Work,8
+MANHATTAN,2025,11,Foundation,30
+MANHATTAN,2025,11,Full Demolition,12
+MANHATTAN,2025,11,General Construction,1216
+MANHATTAN,2025,11,Mechanical Systems,528
+MANHATTAN,2025,11,Plumbing,655
+MANHATTAN,2025,11,Protection and Mechanical Methods,103
+MANHATTAN,2025,11,Sidewalk Shed,334
+MANHATTAN,2025,11,Sign,96
+MANHATTAN,2025,11,Solar,4
+MANHATTAN,2025,11,Sprinklers,338
+MANHATTAN,2025,11,Standpipe,83
+MANHATTAN,2025,11,Structural,264
+MANHATTAN,2025,11,Support of Excavation,11
+MANHATTAN,2025,11,Supported Scaffold,227
+MANHATTAN,2025,11,Suspended Scaffold,164
+MANHATTAN,2025,12,Antenna,5
+MANHATTAN,2025,12,Boiler Equipment,33
+MANHATTAN,2025,12,Construction Fence,112
+MANHATTAN,2025,12,Curb Cut,1
+MANHATTAN,2025,12,Earth Work,4
+MANHATTAN,2025,12,Foundation,43
+MANHATTAN,2025,12,Full Demolition,6
+MANHATTAN,2025,12,General Construction,1323
+MANHATTAN,2025,12,Mechanical Systems,585
+MANHATTAN,2025,12,Plumbing,671
+MANHATTAN,2025,12,Protection and Mechanical Methods,107
+MANHATTAN,2025,12,Sidewalk Shed,316
+MANHATTAN,2025,12,Sign,70
+MANHATTAN,2025,12,Solar,7
+MANHATTAN,2025,12,Sprinklers,372
+MANHATTAN,2025,12,Standpipe,92
+MANHATTAN,2025,12,Structural,313
+MANHATTAN,2025,12,Support of Excavation,25
+MANHATTAN,2025,12,Supported Scaffold,148
+MANHATTAN,2025,12,Suspended Scaffold,284
+QUEENS,2023,1,Antenna,29
+QUEENS,2023,1,Boiler Equipment,26
+QUEENS,2023,1,Construction Fence,279
+QUEENS,2023,1,Curb Cut,37
+QUEENS,2023,1,Earth Work,127
+QUEENS,2023,1,Foundation,168
+QUEENS,2023,1,General Construction,629
+QUEENS,2023,1,Mechanical Systems,246
+QUEENS,2023,1,Plumbing,513
+QUEENS,2023,1,Protection and Mechanical Methods,40
+QUEENS,2023,1,Sidewalk Shed,93
+QUEENS,2023,1,Sign,44
+QUEENS,2023,1,Sprinklers,135
+QUEENS,2023,1,Standpipe,24
+QUEENS,2023,1,Structural,230
+QUEENS,2023,1,Support of Excavation,22
+QUEENS,2023,1,Supported Scaffold,44
+QUEENS,2023,2,Antenna,28
+QUEENS,2023,2,Boiler Equipment,34
+QUEENS,2023,2,Construction Fence,233
+QUEENS,2023,2,Curb Cut,17
+QUEENS,2023,2,Earth Work,72
+QUEENS,2023,2,Foundation,118
+QUEENS,2023,2,General Construction,478
+QUEENS,2023,2,Mechanical Systems,153
+QUEENS,2023,2,Plumbing,377
+QUEENS,2023,2,Protection and Mechanical Methods,27
+QUEENS,2023,2,Sidewalk Shed,169
+QUEENS,2023,2,Sign,37
+QUEENS,2023,2,Sprinklers,103
+QUEENS,2023,2,Standpipe,25
+QUEENS,2023,2,Structural,159
+QUEENS,2023,2,Support of Excavation,16
+QUEENS,2023,2,Supported Scaffold,65
+QUEENS,2023,3,Antenna,29
+QUEENS,2023,3,Boiler Equipment,36
+QUEENS,2023,3,Construction Fence,306
+QUEENS,2023,3,Curb Cut,47
+QUEENS,2023,3,Earth Work,116
+QUEENS,2023,3,Foundation,154
+QUEENS,2023,3,Full Demolition,5
+QUEENS,2023,3,General Construction,631
+QUEENS,2023,3,Mechanical Systems,253
+QUEENS,2023,3,Plumbing,447
+QUEENS,2023,3,Protection and Mechanical Methods,26
+QUEENS,2023,3,Sidewalk Shed,155
+QUEENS,2023,3,Sign,41
+QUEENS,2023,3,Sprinklers,100
+QUEENS,2023,3,Standpipe,40
+QUEENS,2023,3,Structural,206
+QUEENS,2023,3,Support of Excavation,31
+QUEENS,2023,3,Supported Scaffold,56
+QUEENS,2023,4,Antenna,25
+QUEENS,2023,4,Boiler Equipment,25
+QUEENS,2023,4,Construction Fence,271
+QUEENS,2023,4,Curb Cut,48
+QUEENS,2023,4,Earth Work,98
+QUEENS,2023,4,Foundation,128
+QUEENS,2023,4,General Construction,590
+QUEENS,2023,4,Mechanical Systems,204
+QUEENS,2023,4,Plumbing,409
+QUEENS,2023,4,Protection and Mechanical Methods,40
+QUEENS,2023,4,Sidewalk Shed,127
+QUEENS,2023,4,Sign,52
+QUEENS,2023,4,Sprinklers,99
+QUEENS,2023,4,Standpipe,21
+QUEENS,2023,4,Structural,194
+QUEENS,2023,4,Support of Excavation,26
+QUEENS,2023,4,Supported Scaffold,40
+QUEENS,2023,5,Antenna,25
+QUEENS,2023,5,Boiler Equipment,52
+QUEENS,2023,5,Construction Fence,256
+QUEENS,2023,5,Curb Cut,35
+QUEENS,2023,5,Earth Work,147
+QUEENS,2023,5,Foundation,184
+QUEENS,2023,5,Full Demolition,8
+QUEENS,2023,5,General Construction,680
+QUEENS,2023,5,Mechanical Systems,275
+QUEENS,2023,5,Plumbing,387
+QUEENS,2023,5,Protection and Mechanical Methods,45
+QUEENS,2023,5,Sidewalk Shed,137
+QUEENS,2023,5,Sign,56
+QUEENS,2023,5,Sprinklers,100
+QUEENS,2023,5,Standpipe,47
+QUEENS,2023,5,Structural,218
+QUEENS,2023,5,Support of Excavation,40
+QUEENS,2023,5,Supported Scaffold,55
+QUEENS,2023,6,Antenna,34
+QUEENS,2023,6,Boiler Equipment,32
+QUEENS,2023,6,Construction Fence,209
+QUEENS,2023,6,Curb Cut,48
+QUEENS,2023,6,Earth Work,165
+QUEENS,2023,6,Foundation,195
+QUEENS,2023,6,Full Demolition,12
+QUEENS,2023,6,General Construction,664
+QUEENS,2023,6,Mechanical Systems,254
+QUEENS,2023,6,Plumbing,443
+QUEENS,2023,6,Protection and Mechanical Methods,41
+QUEENS,2023,6,Sidewalk Shed,119
+QUEENS,2023,6,Sign,51
+QUEENS,2023,6,Sprinklers,132
+QUEENS,2023,6,Standpipe,33
+QUEENS,2023,6,Structural,226
+QUEENS,2023,6,Support of Excavation,26
+QUEENS,2023,6,Supported Scaffold,66
+QUEENS,2023,7,Antenna,18
+QUEENS,2023,7,Boiler Equipment,37
+QUEENS,2023,7,Construction Fence,213
+QUEENS,2023,7,Curb Cut,37
+QUEENS,2023,7,Earth Work,95
+QUEENS,2023,7,Foundation,129
+QUEENS,2023,7,Full Demolition,20
+QUEENS,2023,7,General Construction,553
+QUEENS,2023,7,Mechanical Systems,214
+QUEENS,2023,7,Plumbing,395
+QUEENS,2023,7,Protection and Mechanical Methods,57
+QUEENS,2023,7,Sidewalk Shed,144
+QUEENS,2023,7,Sign,72
+QUEENS,2023,7,Sprinklers,97
+QUEENS,2023,7,Standpipe,29
+QUEENS,2023,7,Structural,168
+QUEENS,2023,7,Support of Excavation,18
+QUEENS,2023,7,Supported Scaffold,71
+QUEENS,2023,8,Antenna,26
+QUEENS,2023,8,Boiler Equipment,28
+QUEENS,2023,8,Construction Fence,242
+QUEENS,2023,8,Curb Cut,28
+QUEENS,2023,8,Earth Work,130
+QUEENS,2023,8,Foundation,172
+QUEENS,2023,8,Full Demolition,20
+QUEENS,2023,8,General Construction,672
+QUEENS,2023,8,Mechanical Systems,245
+QUEENS,2023,8,Plumbing,386
+QUEENS,2023,8,Protection and Mechanical Methods,42
+QUEENS,2023,8,Sidewalk Shed,145
+QUEENS,2023,8,Sign,53
+QUEENS,2023,8,Sprinklers,105
+QUEENS,2023,8,Standpipe,33
+QUEENS,2023,8,Structural,213
+QUEENS,2023,8,Support of Excavation,30
+QUEENS,2023,8,Supported Scaffold,47
+QUEENS,2023,9,Antenna,15
+QUEENS,2023,9,Boiler Equipment,27
+QUEENS,2023,9,Construction Fence,228
+QUEENS,2023,9,Curb Cut,36
+QUEENS,2023,9,Earth Work,117
+QUEENS,2023,9,Foundation,146
+QUEENS,2023,9,Full Demolition,17
+QUEENS,2023,9,General Construction,624
+QUEENS,2023,9,Mechanical Systems,234
+QUEENS,2023,9,Plumbing,352
+QUEENS,2023,9,Protection and Mechanical Methods,30
+QUEENS,2023,9,Sidewalk Shed,118
+QUEENS,2023,9,Sign,46
+QUEENS,2023,9,Sprinklers,69
+QUEENS,2023,9,Standpipe,27
+QUEENS,2023,9,Structural,227
+QUEENS,2023,9,Support of Excavation,18
+QUEENS,2023,9,Supported Scaffold,49
+QUEENS,2023,10,Antenna,19
+QUEENS,2023,10,Boiler Equipment,26
+QUEENS,2023,10,Construction Fence,187
+QUEENS,2023,10,Curb Cut,38
+QUEENS,2023,10,Earth Work,92
+QUEENS,2023,10,Foundation,134
+QUEENS,2023,10,Full Demolition,22
+QUEENS,2023,10,General Construction,579
+QUEENS,2023,10,Mechanical Systems,243
+QUEENS,2023,10,Plumbing,439
+QUEENS,2023,10,Protection and Mechanical Methods,27
+QUEENS,2023,10,Sidewalk Shed,130
+QUEENS,2023,10,Sign,64
+QUEENS,2023,10,Sprinklers,113
+QUEENS,2023,10,Standpipe,37
+QUEENS,2023,10,Structural,186
+QUEENS,2023,10,Support of Excavation,26
+QUEENS,2023,10,Supported Scaffold,50
+QUEENS,2023,11,Antenna,21
+QUEENS,2023,11,Boiler Equipment,17
+QUEENS,2023,11,Construction Fence,169
+QUEENS,2023,11,Curb Cut,40
+QUEENS,2023,11,Earth Work,111
+QUEENS,2023,11,Foundation,153
+QUEENS,2023,11,Full Demolition,18
+QUEENS,2023,11,General Construction,560
+QUEENS,2023,11,Mechanical Systems,231
+QUEENS,2023,11,Plumbing,418
+QUEENS,2023,11,Protection and Mechanical Methods,20
+QUEENS,2023,11,Sidewalk Shed,97
+QUEENS,2023,11,Sign,106
+QUEENS,2023,11,Solar,2
+QUEENS,2023,11,Sprinklers,99
+QUEENS,2023,11,Standpipe,25
+QUEENS,2023,11,Structural,204
+QUEENS,2023,11,Support of Excavation,32
+QUEENS,2023,11,Supported Scaffold,50
+QUEENS,2023,11,Suspended Scaffold,5
+QUEENS,2023,12,Antenna,14
+QUEENS,2023,12,Boiler Equipment,26
+QUEENS,2023,12,Construction Fence,175
+QUEENS,2023,12,Curb Cut,27
+QUEENS,2023,12,Earth Work,104
+QUEENS,2023,12,Foundation,125
+QUEENS,2023,12,Full Demolition,29
+QUEENS,2023,12,General Construction,515
+QUEENS,2023,12,Mechanical Systems,214
+QUEENS,2023,12,Plumbing,347
+QUEENS,2023,12,Protection and Mechanical Methods,36
+QUEENS,2023,12,Sidewalk Shed,150
+QUEENS,2023,12,Sign,44
+QUEENS,2023,12,Solar,127
+QUEENS,2023,12,Sprinklers,71
+QUEENS,2023,12,Standpipe,17
+QUEENS,2023,12,Structural,177
+QUEENS,2023,12,Support of Excavation,22
+QUEENS,2023,12,Supported Scaffold,58
+QUEENS,2023,12,Suspended Scaffold,74
+QUEENS,2024,1,Antenna,14
+QUEENS,2024,1,Boiler Equipment,29
+QUEENS,2024,1,Construction Fence,207
+QUEENS,2024,1,Curb Cut,58
+QUEENS,2024,1,Earth Work,125
+QUEENS,2024,1,Foundation,165
+QUEENS,2024,1,Full Demolition,23
+QUEENS,2024,1,General Construction,590
+QUEENS,2024,1,Mechanical Systems,251
+QUEENS,2024,1,Plumbing,419
+QUEENS,2024,1,Protection and Mechanical Methods,21
+QUEENS,2024,1,Sidewalk Shed,132
+QUEENS,2024,1,Sign,46
+QUEENS,2024,1,Solar,309
+QUEENS,2024,1,Sprinklers,113
+QUEENS,2024,1,Standpipe,40
+QUEENS,2024,1,Structural,221
+QUEENS,2024,1,Support of Excavation,34
+QUEENS,2024,1,Supported Scaffold,44
+QUEENS,2024,1,Suspended Scaffold,86
+QUEENS,2024,2,Antenna,13
+QUEENS,2024,2,Boiler Equipment,22
+QUEENS,2024,2,Construction Fence,232
+QUEENS,2024,2,Curb Cut,37
+QUEENS,2024,2,Earth Work,113
+QUEENS,2024,2,Foundation,133
+QUEENS,2024,2,Full Demolition,15
+QUEENS,2024,2,General Construction,555
+QUEENS,2024,2,Mechanical Systems,224
+QUEENS,2024,2,Plumbing,365
+QUEENS,2024,2,Protection and Mechanical Methods,11
+QUEENS,2024,2,Sidewalk Shed,136
+QUEENS,2024,2,Sign,34
+QUEENS,2024,2,Solar,284
+QUEENS,2024,2,Sprinklers,110
+QUEENS,2024,2,Standpipe,35
+QUEENS,2024,2,Structural,181
+QUEENS,2024,2,Support of Excavation,26
+QUEENS,2024,2,Supported Scaffold,31
+QUEENS,2024,2,Suspended Scaffold,37
+QUEENS,2024,3,Antenna,10
+QUEENS,2024,3,Boiler Equipment,22
+QUEENS,2024,3,Construction Fence,261
+QUEENS,2024,3,Curb Cut,43
+QUEENS,2024,3,Earth Work,128
+QUEENS,2024,3,Foundation,175
+QUEENS,2024,3,Full Demolition,27
+QUEENS,2024,3,General Construction,631
+QUEENS,2024,3,Mechanical Systems,310
+QUEENS,2024,3,Plumbing,361
+QUEENS,2024,3,Protection and Mechanical Methods,28
+QUEENS,2024,3,Sidewalk Shed,167
+QUEENS,2024,3,Sign,57
+QUEENS,2024,3,Solar,322
+QUEENS,2024,3,Sprinklers,84
+QUEENS,2024,3,Standpipe,26
+QUEENS,2024,3,Structural,251
+QUEENS,2024,3,Support of Excavation,21
+QUEENS,2024,3,Supported Scaffold,51
+QUEENS,2024,3,Suspended Scaffold,56
+QUEENS,2024,4,Antenna,4
+QUEENS,2024,4,Boiler Equipment,53
+QUEENS,2024,4,Construction Fence,231
+QUEENS,2024,4,Curb Cut,31
+QUEENS,2024,4,Earth Work,155
+QUEENS,2024,4,Foundation,201
+QUEENS,2024,4,Full Demolition,29
+QUEENS,2024,4,General Construction,672
+QUEENS,2024,4,Mechanical Systems,275
+QUEENS,2024,4,Plumbing,344
+QUEENS,2024,4,Protection and Mechanical Methods,10
+QUEENS,2024,4,Sidewalk Shed,141
+QUEENS,2024,4,Sign,53
+QUEENS,2024,4,Solar,368
+QUEENS,2024,4,Sprinklers,81
+QUEENS,2024,4,Standpipe,23
+QUEENS,2024,4,Structural,259
+QUEENS,2024,4,Support of Excavation,24
+QUEENS,2024,4,Supported Scaffold,41
+QUEENS,2024,4,Suspended Scaffold,49
+QUEENS,2024,5,Antenna,5
+QUEENS,2024,5,Boiler Equipment,41
+QUEENS,2024,5,Construction Fence,206
+QUEENS,2024,5,Curb Cut,26
+QUEENS,2024,5,Earth Work,146
+QUEENS,2024,5,Foundation,195
+QUEENS,2024,5,Full Demolition,23
+QUEENS,2024,5,General Construction,705
+QUEENS,2024,5,Mechanical Systems,267
+QUEENS,2024,5,Plumbing,371
+QUEENS,2024,5,Protection and Mechanical Methods,24
+QUEENS,2024,5,Sidewalk Shed,126
+QUEENS,2024,5,Sign,33
+QUEENS,2024,5,Solar,450
+QUEENS,2024,5,Sprinklers,90
+QUEENS,2024,5,Standpipe,36
+QUEENS,2024,5,Structural,231
+QUEENS,2024,5,Support of Excavation,29
+QUEENS,2024,5,Supported Scaffold,43
+QUEENS,2024,5,Suspended Scaffold,61
+QUEENS,2024,6,Antenna,6
+QUEENS,2024,6,Boiler Equipment,16
+QUEENS,2024,6,Construction Fence,217
+QUEENS,2024,6,Curb Cut,42
+QUEENS,2024,6,Earth Work,97
+QUEENS,2024,6,Foundation,143
+QUEENS,2024,6,Full Demolition,20
+QUEENS,2024,6,General Construction,517
+QUEENS,2024,6,Mechanical Systems,220
+QUEENS,2024,6,Plumbing,307
+QUEENS,2024,6,Protection and Mechanical Methods,21
+QUEENS,2024,6,Sidewalk Shed,136
+QUEENS,2024,6,Sign,46
+QUEENS,2024,6,Solar,296
+QUEENS,2024,6,Sprinklers,86
+QUEENS,2024,6,Standpipe,33
+QUEENS,2024,6,Structural,172
+QUEENS,2024,6,Support of Excavation,23
+QUEENS,2024,6,Supported Scaffold,62
+QUEENS,2024,6,Suspended Scaffold,37
+QUEENS,2024,7,Antenna,7
+QUEENS,2024,7,Boiler Equipment,20
+QUEENS,2024,7,Construction Fence,200
+QUEENS,2024,7,Curb Cut,29
+QUEENS,2024,7,Earth Work,99
+QUEENS,2024,7,Foundation,142
+QUEENS,2024,7,Full Demolition,29
+QUEENS,2024,7,General Construction,644
+QUEENS,2024,7,Mechanical Systems,253
+QUEENS,2024,7,Plumbing,374
+QUEENS,2024,7,Protection and Mechanical Methods,43
+QUEENS,2024,7,Sidewalk Shed,173
+QUEENS,2024,7,Sign,52
+QUEENS,2024,7,Solar,445
+QUEENS,2024,7,Sprinklers,83
+QUEENS,2024,7,Standpipe,19
+QUEENS,2024,7,Structural,213
+QUEENS,2024,7,Support of Excavation,27
+QUEENS,2024,7,Supported Scaffold,65
+QUEENS,2024,7,Suspended Scaffold,55
+QUEENS,2024,8,Antenna,9
+QUEENS,2024,8,Boiler Equipment,22
+QUEENS,2024,8,Construction Fence,212
+QUEENS,2024,8,Curb Cut,37
+QUEENS,2024,8,Earth Work,141
+QUEENS,2024,8,Foundation,198
+QUEENS,2024,8,Full Demolition,24
+QUEENS,2024,8,General Construction,651
+QUEENS,2024,8,Mechanical Systems,279
+QUEENS,2024,8,Plumbing,389
+QUEENS,2024,8,Protection and Mechanical Methods,24
+QUEENS,2024,8,Sidewalk Shed,136
+QUEENS,2024,8,Sign,39
+QUEENS,2024,8,Solar,415
+QUEENS,2024,8,Sprinklers,105
+QUEENS,2024,8,Standpipe,25
+QUEENS,2024,8,Structural,223
+QUEENS,2024,8,Support of Excavation,24
+QUEENS,2024,8,Supported Scaffold,45
+QUEENS,2024,8,Suspended Scaffold,57
+QUEENS,2024,9,Antenna,10
+QUEENS,2024,9,Boiler Equipment,24
+QUEENS,2024,9,Construction Fence,231
+QUEENS,2024,9,Curb Cut,47
+QUEENS,2024,9,Earth Work,122
+QUEENS,2024,9,Foundation,153
+QUEENS,2024,9,Full Demolition,17
+QUEENS,2024,9,General Construction,640
+QUEENS,2024,9,Mechanical Systems,246
+QUEENS,2024,9,Plumbing,409
+QUEENS,2024,9,Protection and Mechanical Methods,37
+QUEENS,2024,9,Sidewalk Shed,148
+QUEENS,2024,9,Sign,32
+QUEENS,2024,9,Solar,390
+QUEENS,2024,9,Sprinklers,98
+QUEENS,2024,9,Standpipe,23
+QUEENS,2024,9,Structural,219
+QUEENS,2024,9,Support of Excavation,32
+QUEENS,2024,9,Supported Scaffold,55
+QUEENS,2024,9,Suspended Scaffold,42
+QUEENS,2024,10,Antenna,16
+QUEENS,2024,10,Boiler Equipment,24
+QUEENS,2024,10,Construction Fence,192
+QUEENS,2024,10,Curb Cut,63
+QUEENS,2024,10,Earth Work,144
+QUEENS,2024,10,Foundation,209
+QUEENS,2024,10,Full Demolition,19
+QUEENS,2024,10,General Construction,684
+QUEENS,2024,10,Mechanical Systems,268
+QUEENS,2024,10,Plumbing,397
+QUEENS,2024,10,Protection and Mechanical Methods,36
+QUEENS,2024,10,Sidewalk Shed,142
+QUEENS,2024,10,Sign,51
+QUEENS,2024,10,Solar,390
+QUEENS,2024,10,Sprinklers,92
+QUEENS,2024,10,Standpipe,31
+QUEENS,2024,10,Structural,284
+QUEENS,2024,10,Support of Excavation,38
+QUEENS,2024,10,Supported Scaffold,41
+QUEENS,2024,10,Suspended Scaffold,69
+QUEENS,2024,11,Antenna,7
+QUEENS,2024,11,Boiler Equipment,21
+QUEENS,2024,11,Construction Fence,158
+QUEENS,2024,11,Curb Cut,47
+QUEENS,2024,11,Earth Work,84
+QUEENS,2024,11,Foundation,117
+QUEENS,2024,11,Full Demolition,28
+QUEENS,2024,11,General Construction,620
+QUEENS,2024,11,Mechanical Systems,204
+QUEENS,2024,11,Plumbing,377
+QUEENS,2024,11,Protection and Mechanical Methods,24
+QUEENS,2024,11,Sidewalk Shed,104
+QUEENS,2024,11,Sign,58
+QUEENS,2024,11,Solar,371
+QUEENS,2024,11,Sprinklers,62
+QUEENS,2024,11,Standpipe,14
+QUEENS,2024,11,Structural,198
+QUEENS,2024,11,Support of Excavation,26
+QUEENS,2024,11,Supported Scaffold,42
+QUEENS,2024,11,Suspended Scaffold,34
+QUEENS,2024,12,Antenna,10
+QUEENS,2024,12,Boiler Equipment,19
+QUEENS,2024,12,Construction Fence,176
+QUEENS,2024,12,Curb Cut,22
+QUEENS,2024,12,Earth Work,88
+QUEENS,2024,12,Foundation,140
+QUEENS,2024,12,Full Demolition,28
+QUEENS,2024,12,General Construction,519
+QUEENS,2024,12,Mechanical Systems,222
+QUEENS,2024,12,Plumbing,341
+QUEENS,2024,12,Protection and Mechanical Methods,27
+QUEENS,2024,12,Sidewalk Shed,90
+QUEENS,2024,12,Sign,42
+QUEENS,2024,12,Solar,358
+QUEENS,2024,12,Sprinklers,89
+QUEENS,2024,12,Standpipe,37
+QUEENS,2024,12,Structural,193
+QUEENS,2024,12,Support of Excavation,26
+QUEENS,2024,12,Supported Scaffold,43
+QUEENS,2024,12,Suspended Scaffold,40
+QUEENS,2025,1,Antenna,12
+QUEENS,2025,1,Boiler Equipment,13
+QUEENS,2025,1,Construction Fence,200
+QUEENS,2025,1,Curb Cut,44
+QUEENS,2025,1,Earth Work,93
+QUEENS,2025,1,Foundation,147
+QUEENS,2025,1,Full Demolition,19
+QUEENS,2025,1,General Construction,658
+QUEENS,2025,1,Mechanical Systems,262
+QUEENS,2025,1,Plumbing,404
+QUEENS,2025,1,Protection and Mechanical Methods,21
+QUEENS,2025,1,Sidewalk Shed,115
+QUEENS,2025,1,Sign,43
+QUEENS,2025,1,Solar,303
+QUEENS,2025,1,Sprinklers,100
+QUEENS,2025,1,Standpipe,46
+QUEENS,2025,1,Structural,240
+QUEENS,2025,1,Support of Excavation,24
+QUEENS,2025,1,Supported Scaffold,51
+QUEENS,2025,1,Suspended Scaffold,58
+QUEENS,2025,2,Antenna,9
+QUEENS,2025,2,Boiler Equipment,17
+QUEENS,2025,2,Construction Fence,183
+QUEENS,2025,2,Curb Cut,29
+QUEENS,2025,2,Earth Work,82
+QUEENS,2025,2,Foundation,127
+QUEENS,2025,2,Full Demolition,31
+QUEENS,2025,2,General Construction,534
+QUEENS,2025,2,Mechanical Systems,237
+QUEENS,2025,2,Plumbing,379
+QUEENS,2025,2,Protection and Mechanical Methods,19
+QUEENS,2025,2,Sidewalk Shed,117
+QUEENS,2025,2,Sign,69
+QUEENS,2025,2,Solar,288
+QUEENS,2025,2,Sprinklers,86
+QUEENS,2025,2,Standpipe,34
+QUEENS,2025,2,Structural,194
+QUEENS,2025,2,Support of Excavation,29
+QUEENS,2025,2,Supported Scaffold,39
+QUEENS,2025,2,Suspended Scaffold,25
+QUEENS,2025,3,Antenna,18
+QUEENS,2025,3,Boiler Equipment,14
+QUEENS,2025,3,Construction Fence,239
+QUEENS,2025,3,Curb Cut,42
+QUEENS,2025,3,Earth Work,118
+QUEENS,2025,3,Foundation,211
+QUEENS,2025,3,Full Demolition,34
+QUEENS,2025,3,General Construction,713
+QUEENS,2025,3,Mechanical Systems,329
+QUEENS,2025,3,Plumbing,342
+QUEENS,2025,3,Protection and Mechanical Methods,24
+QUEENS,2025,3,Sidewalk Shed,143
+QUEENS,2025,3,Sign,67
+QUEENS,2025,3,Solar,290
+QUEENS,2025,3,Sprinklers,79
+QUEENS,2025,3,Standpipe,32
+QUEENS,2025,3,Structural,298
+QUEENS,2025,3,Support of Excavation,43
+QUEENS,2025,3,Supported Scaffold,54
+QUEENS,2025,3,Suspended Scaffold,45
+QUEENS,2025,4,Antenna,5
+QUEENS,2025,4,Boiler Equipment,26
+QUEENS,2025,4,Construction Fence,213
+QUEENS,2025,4,Curb Cut,42
+QUEENS,2025,4,Earth Work,117
+QUEENS,2025,4,Foundation,161
+QUEENS,2025,4,Full Demolition,30
+QUEENS,2025,4,General Construction,674
+QUEENS,2025,4,Mechanical Systems,270
+QUEENS,2025,4,Plumbing,365
+QUEENS,2025,4,Protection and Mechanical Methods,21
+QUEENS,2025,4,Sidewalk Shed,118
+QUEENS,2025,4,Sign,49
+QUEENS,2025,4,Solar,367
+QUEENS,2025,4,Sprinklers,88
+QUEENS,2025,4,Standpipe,21
+QUEENS,2025,4,Structural,244
+QUEENS,2025,4,Support of Excavation,34
+QUEENS,2025,4,Supported Scaffold,33
+QUEENS,2025,4,Suspended Scaffold,39
+QUEENS,2025,5,Antenna,5
+QUEENS,2025,5,Boiler Equipment,15
+QUEENS,2025,5,Construction Fence,256
+QUEENS,2025,5,Curb Cut,38
+QUEENS,2025,5,Earth Work,149
+QUEENS,2025,5,Foundation,186
+QUEENS,2025,5,Full Demolition,30
+QUEENS,2025,5,General Construction,653
+QUEENS,2025,5,Mechanical Systems,274
+QUEENS,2025,5,Plumbing,339
+QUEENS,2025,5,Protection and Mechanical Methods,26
+QUEENS,2025,5,Sidewalk Shed,117
+QUEENS,2025,5,Sign,45
+QUEENS,2025,5,Solar,287
+QUEENS,2025,5,Sprinklers,105
+QUEENS,2025,5,Standpipe,38
+QUEENS,2025,5,Structural,252
+QUEENS,2025,5,Support of Excavation,25
+QUEENS,2025,5,Supported Scaffold,52
+QUEENS,2025,5,Suspended Scaffold,46
+QUEENS,2025,6,Antenna,9
+QUEENS,2025,6,Boiler Equipment,16
+QUEENS,2025,6,Construction Fence,179
+QUEENS,2025,6,Curb Cut,34
+QUEENS,2025,6,Earth Work,95
+QUEENS,2025,6,Foundation,144
+QUEENS,2025,6,Full Demolition,35
+QUEENS,2025,6,General Construction,614
+QUEENS,2025,6,Mechanical Systems,258
+QUEENS,2025,6,Plumbing,402
+QUEENS,2025,6,Protection and Mechanical Methods,26
+QUEENS,2025,6,Sidewalk Shed,133
+QUEENS,2025,6,Sign,37
+QUEENS,2025,6,Solar,301
+QUEENS,2025,6,Sprinklers,114
+QUEENS,2025,6,Standpipe,49
+QUEENS,2025,6,Structural,191
+QUEENS,2025,6,Support of Excavation,19
+QUEENS,2025,6,Supported Scaffold,49
+QUEENS,2025,6,Suspended Scaffold,52
+QUEENS,2025,7,Antenna,10
+QUEENS,2025,7,Boiler Equipment,15
+QUEENS,2025,7,Construction Fence,221
+QUEENS,2025,7,Curb Cut,27
+QUEENS,2025,7,Earth Work,113
+QUEENS,2025,7,Foundation,147
+QUEENS,2025,7,Full Demolition,25
+QUEENS,2025,7,General Construction,628
+QUEENS,2025,7,Mechanical Systems,226
+QUEENS,2025,7,Plumbing,354
+QUEENS,2025,7,Protection and Mechanical Methods,25
+QUEENS,2025,7,Sidewalk Shed,134
+QUEENS,2025,7,Sign,57
+QUEENS,2025,7,Solar,349
+QUEENS,2025,7,Sprinklers,79
+QUEENS,2025,7,Standpipe,27
+QUEENS,2025,7,Structural,207
+QUEENS,2025,7,Support of Excavation,23
+QUEENS,2025,7,Supported Scaffold,60
+QUEENS,2025,7,Suspended Scaffold,53
+QUEENS,2025,8,Antenna,11
+QUEENS,2025,8,Boiler Equipment,19
+QUEENS,2025,8,Construction Fence,186
+QUEENS,2025,8,Curb Cut,22
+QUEENS,2025,8,Earth Work,123
+QUEENS,2025,8,Foundation,163
+QUEENS,2025,8,Full Demolition,38
+QUEENS,2025,8,General Construction,575
+QUEENS,2025,8,Mechanical Systems,248
+QUEENS,2025,8,Plumbing,327
+QUEENS,2025,8,Protection and Mechanical Methods,25
+QUEENS,2025,8,Sidewalk Shed,105
+QUEENS,2025,8,Sign,69
+QUEENS,2025,8,Solar,351
+QUEENS,2025,8,Sprinklers,74
+QUEENS,2025,8,Standpipe,18
+QUEENS,2025,8,Structural,217
+QUEENS,2025,8,Support of Excavation,19
+QUEENS,2025,8,Supported Scaffold,36
+QUEENS,2025,8,Suspended Scaffold,21
+QUEENS,2025,9,Antenna,6
+QUEENS,2025,9,Boiler Equipment,16
+QUEENS,2025,9,Construction Fence,196
+QUEENS,2025,9,Curb Cut,49
+QUEENS,2025,9,Earth Work,144
+QUEENS,2025,9,Foundation,192
+QUEENS,2025,9,Full Demolition,37
+QUEENS,2025,9,General Construction,643
+QUEENS,2025,9,Mechanical Systems,261
+QUEENS,2025,9,Plumbing,389
+QUEENS,2025,9,Protection and Mechanical Methods,43
+QUEENS,2025,9,Sidewalk Shed,98
+QUEENS,2025,9,Sign,56
+QUEENS,2025,9,Solar,280
+QUEENS,2025,9,Sprinklers,85
+QUEENS,2025,9,Standpipe,27
+QUEENS,2025,9,Structural,243
+QUEENS,2025,9,Support of Excavation,24
+QUEENS,2025,9,Supported Scaffold,42
+QUEENS,2025,9,Suspended Scaffold,32
+QUEENS,2025,10,Antenna,7
+QUEENS,2025,10,Boiler Equipment,23
+QUEENS,2025,10,Construction Fence,222
+QUEENS,2025,10,Curb Cut,31
+QUEENS,2025,10,Earth Work,143
+QUEENS,2025,10,Foundation,186
+QUEENS,2025,10,Full Demolition,27
+QUEENS,2025,10,General Construction,671
+QUEENS,2025,10,Mechanical Systems,278
+QUEENS,2025,10,Plumbing,414
+QUEENS,2025,10,Protection and Mechanical Methods,26
+QUEENS,2025,10,Sidewalk Shed,136
+QUEENS,2025,10,Sign,27
+QUEENS,2025,10,Solar,416
+QUEENS,2025,10,Sprinklers,84
+QUEENS,2025,10,Standpipe,14
+QUEENS,2025,10,Structural,266
+QUEENS,2025,10,Support of Excavation,29
+QUEENS,2025,10,Supported Scaffold,53
+QUEENS,2025,10,Suspended Scaffold,61
+QUEENS,2025,11,Antenna,4
+QUEENS,2025,11,Boiler Equipment,18
+QUEENS,2025,11,Construction Fence,169
+QUEENS,2025,11,Curb Cut,37
+QUEENS,2025,11,Earth Work,153
+QUEENS,2025,11,Foundation,184
+QUEENS,2025,11,Full Demolition,14
+QUEENS,2025,11,General Construction,596
+QUEENS,2025,11,Mechanical Systems,231
+QUEENS,2025,11,Plumbing,347
+QUEENS,2025,11,Protection and Mechanical Methods,32
+QUEENS,2025,11,Sidewalk Shed,89
+QUEENS,2025,11,Sign,56
+QUEENS,2025,11,Solar,304
+QUEENS,2025,11,Sprinklers,80
+QUEENS,2025,11,Standpipe,24
+QUEENS,2025,11,Structural,222
+QUEENS,2025,11,Support of Excavation,26
+QUEENS,2025,11,Supported Scaffold,47
+QUEENS,2025,11,Suspended Scaffold,35
+QUEENS,2025,12,Antenna,8
+QUEENS,2025,12,Boiler Equipment,20
+QUEENS,2025,12,Construction Fence,218
+QUEENS,2025,12,Curb Cut,37
+QUEENS,2025,12,Earth Work,122
+QUEENS,2025,12,Foundation,173
+QUEENS,2025,12,Full Demolition,31
+QUEENS,2025,12,General Construction,626
+QUEENS,2025,12,Mechanical Systems,253
+QUEENS,2025,12,Plumbing,357
+QUEENS,2025,12,Protection and Mechanical Methods,29
+QUEENS,2025,12,Sidewalk Shed,81
+QUEENS,2025,12,Sign,37
+QUEENS,2025,12,Solar,331
+QUEENS,2025,12,Sprinklers,78
+QUEENS,2025,12,Standpipe,23
+QUEENS,2025,12,Structural,235
+QUEENS,2025,12,Support of Excavation,49
+QUEENS,2025,12,Supported Scaffold,42
+QUEENS,2025,12,Suspended Scaffold,32
+STATEN ISLAND,2023,1,Antenna,5
+STATEN ISLAND,2023,1,Boiler Equipment,2
+STATEN ISLAND,2023,1,Construction Fence,79
+STATEN ISLAND,2023,1,Curb Cut,19
+STATEN ISLAND,2023,1,Earth Work,36
+STATEN ISLAND,2023,1,Foundation,65
+STATEN ISLAND,2023,1,General Construction,135
+STATEN ISLAND,2023,1,Mechanical Systems,61
+STATEN ISLAND,2023,1,Plumbing,118
+STATEN ISLAND,2023,1,Protection and Mechanical Methods,3
+STATEN ISLAND,2023,1,Sidewalk Shed,12
+STATEN ISLAND,2023,1,Sign,31
+STATEN ISLAND,2023,1,Sprinklers,23
+STATEN ISLAND,2023,1,Standpipe,6
+STATEN ISLAND,2023,1,Structural,77
+STATEN ISLAND,2023,1,Support of Excavation,2
+STATEN ISLAND,2023,1,Supported Scaffold,13
+STATEN ISLAND,2023,2,Antenna,11
+STATEN ISLAND,2023,2,Boiler Equipment,3
+STATEN ISLAND,2023,2,Construction Fence,62
+STATEN ISLAND,2023,2,Curb Cut,23
+STATEN ISLAND,2023,2,Earth Work,44
+STATEN ISLAND,2023,2,Foundation,64
+STATEN ISLAND,2023,2,General Construction,116
+STATEN ISLAND,2023,2,Mechanical Systems,66
+STATEN ISLAND,2023,2,Plumbing,96
+STATEN ISLAND,2023,2,Protection and Mechanical Methods,3
+STATEN ISLAND,2023,2,Sidewalk Shed,6
+STATEN ISLAND,2023,2,Sign,4
+STATEN ISLAND,2023,2,Sprinklers,6
+STATEN ISLAND,2023,2,Standpipe,1
+STATEN ISLAND,2023,2,Structural,66
+STATEN ISLAND,2023,2,Support of Excavation,5
+STATEN ISLAND,2023,2,Supported Scaffold,5
+STATEN ISLAND,2023,3,Antenna,20
+STATEN ISLAND,2023,3,Boiler Equipment,7
+STATEN ISLAND,2023,3,Construction Fence,73
+STATEN ISLAND,2023,3,Curb Cut,34
+STATEN ISLAND,2023,3,Earth Work,62
+STATEN ISLAND,2023,3,Foundation,84
+STATEN ISLAND,2023,3,Full Demolition,5
+STATEN ISLAND,2023,3,General Construction,157
+STATEN ISLAND,2023,3,Mechanical Systems,71
+STATEN ISLAND,2023,3,Plumbing,109
+STATEN ISLAND,2023,3,Protection and Mechanical Methods,2
+STATEN ISLAND,2023,3,Sidewalk Shed,13
+STATEN ISLAND,2023,3,Sign,22
+STATEN ISLAND,2023,3,Sprinklers,31
+STATEN ISLAND,2023,3,Standpipe,4
+STATEN ISLAND,2023,3,Structural,95
+STATEN ISLAND,2023,3,Support of Excavation,6
+STATEN ISLAND,2023,3,Supported Scaffold,6
+STATEN ISLAND,2023,4,Antenna,16
+STATEN ISLAND,2023,4,Boiler Equipment,5
+STATEN ISLAND,2023,4,Construction Fence,62
+STATEN ISLAND,2023,4,Curb Cut,33
+STATEN ISLAND,2023,4,Earth Work,41
+STATEN ISLAND,2023,4,Foundation,66
+STATEN ISLAND,2023,4,Full Demolition,1
+STATEN ISLAND,2023,4,General Construction,133
+STATEN ISLAND,2023,4,Mechanical Systems,66
+STATEN ISLAND,2023,4,Plumbing,108
+STATEN ISLAND,2023,4,Protection and Mechanical Methods,1
+STATEN ISLAND,2023,4,Sidewalk Shed,11
+STATEN ISLAND,2023,4,Sign,24
+STATEN ISLAND,2023,4,Sprinklers,20
+STATEN ISLAND,2023,4,Standpipe,3
+STATEN ISLAND,2023,4,Structural,82
+STATEN ISLAND,2023,4,Support of Excavation,4
+STATEN ISLAND,2023,4,Supported Scaffold,3
+STATEN ISLAND,2023,5,Antenna,10
+STATEN ISLAND,2023,5,Boiler Equipment,3
+STATEN ISLAND,2023,5,Construction Fence,67
+STATEN ISLAND,2023,5,Curb Cut,32
+STATEN ISLAND,2023,5,Earth Work,56
+STATEN ISLAND,2023,5,Foundation,77
+STATEN ISLAND,2023,5,Full Demolition,4
+STATEN ISLAND,2023,5,General Construction,160
+STATEN ISLAND,2023,5,Mechanical Systems,86
+STATEN ISLAND,2023,5,Plumbing,130
+STATEN ISLAND,2023,5,Protection and Mechanical Methods,1
+STATEN ISLAND,2023,5,Sidewalk Shed,7
+STATEN ISLAND,2023,5,Sign,11
+STATEN ISLAND,2023,5,Sprinklers,22
+STATEN ISLAND,2023,5,Standpipe,2
+STATEN ISLAND,2023,5,Structural,88
+STATEN ISLAND,2023,5,Support of Excavation,5
+STATEN ISLAND,2023,5,Supported Scaffold,3
+STATEN ISLAND,2023,6,Antenna,6
+STATEN ISLAND,2023,6,Boiler Equipment,2
+STATEN ISLAND,2023,6,Construction Fence,75
+STATEN ISLAND,2023,6,Curb Cut,43
+STATEN ISLAND,2023,6,Earth Work,61
+STATEN ISLAND,2023,6,Foundation,74
+STATEN ISLAND,2023,6,Full Demolition,5
+STATEN ISLAND,2023,6,General Construction,138
+STATEN ISLAND,2023,6,Mechanical Systems,61
+STATEN ISLAND,2023,6,Plumbing,131
+STATEN ISLAND,2023,6,Protection and Mechanical Methods,1
+STATEN ISLAND,2023,6,Sidewalk Shed,7
+STATEN ISLAND,2023,6,Sign,12
+STATEN ISLAND,2023,6,Sprinklers,17
+STATEN ISLAND,2023,6,Standpipe,2
+STATEN ISLAND,2023,6,Structural,87
+STATEN ISLAND,2023,6,Support of Excavation,7
+STATEN ISLAND,2023,6,Supported Scaffold,1
+STATEN ISLAND,2023,7,Antenna,6
+STATEN ISLAND,2023,7,Boiler Equipment,1
+STATEN ISLAND,2023,7,Construction Fence,53
+STATEN ISLAND,2023,7,Curb Cut,19
+STATEN ISLAND,2023,7,Earth Work,33
+STATEN ISLAND,2023,7,Foundation,73
+STATEN ISLAND,2023,7,Full Demolition,6
+STATEN ISLAND,2023,7,General Construction,130
+STATEN ISLAND,2023,7,Mechanical Systems,56
+STATEN ISLAND,2023,7,Plumbing,118
+STATEN ISLAND,2023,7,Protection and Mechanical Methods,6
+STATEN ISLAND,2023,7,Sidewalk Shed,8
+STATEN ISLAND,2023,7,Sign,14
+STATEN ISLAND,2023,7,Sprinklers,25
+STATEN ISLAND,2023,7,Standpipe,8
+STATEN ISLAND,2023,7,Structural,82
+STATEN ISLAND,2023,7,Supported Scaffold,4
+STATEN ISLAND,2023,8,Antenna,10
+STATEN ISLAND,2023,8,Construction Fence,72
+STATEN ISLAND,2023,8,Curb Cut,27
+STATEN ISLAND,2023,8,Earth Work,62
+STATEN ISLAND,2023,8,Foundation,93
+STATEN ISLAND,2023,8,Full Demolition,8
+STATEN ISLAND,2023,8,General Construction,176
+STATEN ISLAND,2023,8,Mechanical Systems,84
+STATEN ISLAND,2023,8,Plumbing,133
+STATEN ISLAND,2023,8,Protection and Mechanical Methods,2
+STATEN ISLAND,2023,8,Sidewalk Shed,6
+STATEN ISLAND,2023,8,Sign,20
+STATEN ISLAND,2023,8,Sprinklers,26
+STATEN ISLAND,2023,8,Standpipe,5
+STATEN ISLAND,2023,8,Structural,98
+STATEN ISLAND,2023,8,Support of Excavation,5
+STATEN ISLAND,2023,8,Supported Scaffold,3
+STATEN ISLAND,2023,9,Antenna,6
+STATEN ISLAND,2023,9,Boiler Equipment,1
+STATEN ISLAND,2023,9,Construction Fence,62
+STATEN ISLAND,2023,9,Curb Cut,25
+STATEN ISLAND,2023,9,Earth Work,38
+STATEN ISLAND,2023,9,Foundation,75
+STATEN ISLAND,2023,9,Full Demolition,11
+STATEN ISLAND,2023,9,General Construction,144
+STATEN ISLAND,2023,9,Mechanical Systems,53
+STATEN ISLAND,2023,9,Plumbing,102
+STATEN ISLAND,2023,9,Protection and Mechanical Methods,3
+STATEN ISLAND,2023,9,Sidewalk Shed,12
+STATEN ISLAND,2023,9,Sign,19
+STATEN ISLAND,2023,9,Sprinklers,8
+STATEN ISLAND,2023,9,Structural,85
+STATEN ISLAND,2023,9,Support of Excavation,3
+STATEN ISLAND,2023,9,Supported Scaffold,3
+STATEN ISLAND,2023,10,Antenna,2
+STATEN ISLAND,2023,10,Boiler Equipment,2
+STATEN ISLAND,2023,10,Construction Fence,74
+STATEN ISLAND,2023,10,Curb Cut,31
+STATEN ISLAND,2023,10,Earth Work,33
+STATEN ISLAND,2023,10,Foundation,54
+STATEN ISLAND,2023,10,Full Demolition,15
+STATEN ISLAND,2023,10,General Construction,125
+STATEN ISLAND,2023,10,Mechanical Systems,53
+STATEN ISLAND,2023,10,Plumbing,168
+STATEN ISLAND,2023,10,Protection and Mechanical Methods,4
+STATEN ISLAND,2023,10,Sidewalk Shed,8
+STATEN ISLAND,2023,10,Sign,25
+STATEN ISLAND,2023,10,Sprinklers,44
+STATEN ISLAND,2023,10,Standpipe,5
+STATEN ISLAND,2023,10,Structural,77
+STATEN ISLAND,2023,10,Support of Excavation,8
+STATEN ISLAND,2023,10,Supported Scaffold,5
+STATEN ISLAND,2023,11,Antenna,1
+STATEN ISLAND,2023,11,Boiler Equipment,5
+STATEN ISLAND,2023,11,Construction Fence,65
+STATEN ISLAND,2023,11,Curb Cut,26
+STATEN ISLAND,2023,11,Earth Work,45
+STATEN ISLAND,2023,11,Foundation,61
+STATEN ISLAND,2023,11,Full Demolition,17
+STATEN ISLAND,2023,11,General Construction,130
+STATEN ISLAND,2023,11,Mechanical Systems,64
+STATEN ISLAND,2023,11,Plumbing,139
+STATEN ISLAND,2023,11,Protection and Mechanical Methods,3
+STATEN ISLAND,2023,11,Sidewalk Shed,5
+STATEN ISLAND,2023,11,Sign,26
+STATEN ISLAND,2023,11,Solar,4
+STATEN ISLAND,2023,11,Sprinklers,17
+STATEN ISLAND,2023,11,Standpipe,3
+STATEN ISLAND,2023,11,Structural,74
+STATEN ISLAND,2023,11,Support of Excavation,3
+STATEN ISLAND,2023,11,Supported Scaffold,3
+STATEN ISLAND,2023,12,Antenna,3
+STATEN ISLAND,2023,12,Boiler Equipment,3
+STATEN ISLAND,2023,12,Construction Fence,52
+STATEN ISLAND,2023,12,Curb Cut,18
+STATEN ISLAND,2023,12,Earth Work,19
+STATEN ISLAND,2023,12,Foundation,41
+STATEN ISLAND,2023,12,Full Demolition,14
+STATEN ISLAND,2023,12,General Construction,103
+STATEN ISLAND,2023,12,Mechanical Systems,49
+STATEN ISLAND,2023,12,Plumbing,110
+STATEN ISLAND,2023,12,Sidewalk Shed,15
+STATEN ISLAND,2023,12,Sign,14
+STATEN ISLAND,2023,12,Solar,53
+STATEN ISLAND,2023,12,Sprinklers,8
+STATEN ISLAND,2023,12,Structural,62
+STATEN ISLAND,2023,12,Support of Excavation,1
+STATEN ISLAND,2023,12,Supported Scaffold,4
+STATEN ISLAND,2023,12,Suspended Scaffold,3
+STATEN ISLAND,2024,1,Antenna,4
+STATEN ISLAND,2024,1,Boiler Equipment,4
+STATEN ISLAND,2024,1,Construction Fence,59
+STATEN ISLAND,2024,1,Curb Cut,26
+STATEN ISLAND,2024,1,Earth Work,15
+STATEN ISLAND,2024,1,Foundation,40
+STATEN ISLAND,2024,1,Full Demolition,11
+STATEN ISLAND,2024,1,General Construction,110
+STATEN ISLAND,2024,1,Mechanical Systems,54
+STATEN ISLAND,2024,1,Plumbing,114
+STATEN ISLAND,2024,1,Protection and Mechanical Methods,2
+STATEN ISLAND,2024,1,Sidewalk Shed,14
+STATEN ISLAND,2024,1,Sign,13
+STATEN ISLAND,2024,1,Solar,97
+STATEN ISLAND,2024,1,Sprinklers,31
+STATEN ISLAND,2024,1,Standpipe,3
+STATEN ISLAND,2024,1,Structural,60
+STATEN ISLAND,2024,1,Support of Excavation,3
+STATEN ISLAND,2024,1,Supported Scaffold,13
+STATEN ISLAND,2024,1,Suspended Scaffold,1
+STATEN ISLAND,2024,2,Antenna,6
+STATEN ISLAND,2024,2,Boiler Equipment,2
+STATEN ISLAND,2024,2,Construction Fence,55
+STATEN ISLAND,2024,2,Curb Cut,25
+STATEN ISLAND,2024,2,Earth Work,39
+STATEN ISLAND,2024,2,Foundation,62
+STATEN ISLAND,2024,2,Full Demolition,9
+STATEN ISLAND,2024,2,General Construction,136
+STATEN ISLAND,2024,2,Mechanical Systems,51
+STATEN ISLAND,2024,2,Plumbing,116
+STATEN ISLAND,2024,2,Sidewalk Shed,4
+STATEN ISLAND,2024,2,Sign,15
+STATEN ISLAND,2024,2,Solar,89
+STATEN ISLAND,2024,2,Sprinklers,29
+STATEN ISLAND,2024,2,Standpipe,2
+STATEN ISLAND,2024,2,Structural,80
+STATEN ISLAND,2024,2,Support of Excavation,2
+STATEN ISLAND,2024,2,Supported Scaffold,5
+STATEN ISLAND,2024,2,Suspended Scaffold,1
+STATEN ISLAND,2024,3,Antenna,4
+STATEN ISLAND,2024,3,Boiler Equipment,2
+STATEN ISLAND,2024,3,Construction Fence,75
+STATEN ISLAND,2024,3,Curb Cut,25
+STATEN ISLAND,2024,3,Earth Work,30
+STATEN ISLAND,2024,3,Foundation,70
+STATEN ISLAND,2024,3,Full Demolition,9
+STATEN ISLAND,2024,3,General Construction,154
+STATEN ISLAND,2024,3,Mechanical Systems,66
+STATEN ISLAND,2024,3,Plumbing,223
+STATEN ISLAND,2024,3,Protection and Mechanical Methods,6
+STATEN ISLAND,2024,3,Sidewalk Shed,19
+STATEN ISLAND,2024,3,Sign,27
+STATEN ISLAND,2024,3,Solar,110
+STATEN ISLAND,2024,3,Sprinklers,50
+STATEN ISLAND,2024,3,Standpipe,4
+STATEN ISLAND,2024,3,Structural,76
+STATEN ISLAND,2024,3,Support of Excavation,5
+STATEN ISLAND,2024,3,Supported Scaffold,7
+STATEN ISLAND,2024,3,Suspended Scaffold,2
+STATEN ISLAND,2024,4,Antenna,4
+STATEN ISLAND,2024,4,Boiler Equipment,1
+STATEN ISLAND,2024,4,Construction Fence,57
+STATEN ISLAND,2024,4,Curb Cut,31
+STATEN ISLAND,2024,4,Earth Work,74
+STATEN ISLAND,2024,4,Foundation,128
+STATEN ISLAND,2024,4,Full Demolition,15
+STATEN ISLAND,2024,4,General Construction,191
+STATEN ISLAND,2024,4,Mechanical Systems,100
+STATEN ISLAND,2024,4,Plumbing,119
+STATEN ISLAND,2024,4,Protection and Mechanical Methods,2
+STATEN ISLAND,2024,4,Sidewalk Shed,13
+STATEN ISLAND,2024,4,Sign,9
+STATEN ISLAND,2024,4,Solar,102
+STATEN ISLAND,2024,4,Sprinklers,37
+STATEN ISLAND,2024,4,Standpipe,1
+STATEN ISLAND,2024,4,Structural,132
+STATEN ISLAND,2024,4,Support of Excavation,3
+STATEN ISLAND,2024,4,Supported Scaffold,4
+STATEN ISLAND,2024,4,Suspended Scaffold,4
+STATEN ISLAND,2024,5,Antenna,1
+STATEN ISLAND,2024,5,Boiler Equipment,4
+STATEN ISLAND,2024,5,Construction Fence,69
+STATEN ISLAND,2024,5,Curb Cut,34
+STATEN ISLAND,2024,5,Earth Work,64
+STATEN ISLAND,2024,5,Foundation,110
+STATEN ISLAND,2024,5,Full Demolition,8
+STATEN ISLAND,2024,5,General Construction,181
+STATEN ISLAND,2024,5,Mechanical Systems,73
+STATEN ISLAND,2024,5,Plumbing,120
+STATEN ISLAND,2024,5,Protection and Mechanical Methods,1
+STATEN ISLAND,2024,5,Sidewalk Shed,4
+STATEN ISLAND,2024,5,Sign,19
+STATEN ISLAND,2024,5,Solar,126
+STATEN ISLAND,2024,5,Sprinklers,32
+STATEN ISLAND,2024,5,Standpipe,3
+STATEN ISLAND,2024,5,Structural,117
+STATEN ISLAND,2024,5,Support of Excavation,2
+STATEN ISLAND,2024,5,Supported Scaffold,4
+STATEN ISLAND,2024,5,Suspended Scaffold,3
+STATEN ISLAND,2024,6,Antenna,3
+STATEN ISLAND,2024,6,Construction Fence,59
+STATEN ISLAND,2024,6,Curb Cut,16
+STATEN ISLAND,2024,6,Earth Work,47
+STATEN ISLAND,2024,6,Foundation,84
+STATEN ISLAND,2024,6,Full Demolition,5
+STATEN ISLAND,2024,6,General Construction,168
+STATEN ISLAND,2024,6,Mechanical Systems,47
+STATEN ISLAND,2024,6,Plumbing,154
+STATEN ISLAND,2024,6,Protection and Mechanical Methods,2
+STATEN ISLAND,2024,6,Sidewalk Shed,4
+STATEN ISLAND,2024,6,Sign,9
+STATEN ISLAND,2024,6,Solar,114
+STATEN ISLAND,2024,6,Sprinklers,35
+STATEN ISLAND,2024,6,Standpipe,1
+STATEN ISLAND,2024,6,Structural,94
+STATEN ISLAND,2024,6,Support of Excavation,1
+STATEN ISLAND,2024,6,Supported Scaffold,2
+STATEN ISLAND,2024,6,Suspended Scaffold,3
+STATEN ISLAND,2024,7,Antenna,7
+STATEN ISLAND,2024,7,Boiler Equipment,6
+STATEN ISLAND,2024,7,Construction Fence,62
+STATEN ISLAND,2024,7,Curb Cut,42
+STATEN ISLAND,2024,7,Earth Work,60
+STATEN ISLAND,2024,7,Foundation,117
+STATEN ISLAND,2024,7,Full Demolition,9
+STATEN ISLAND,2024,7,General Construction,208
+STATEN ISLAND,2024,7,Mechanical Systems,70
+STATEN ISLAND,2024,7,Plumbing,155
+STATEN ISLAND,2024,7,Protection and Mechanical Methods,2
+STATEN ISLAND,2024,7,Sidewalk Shed,12
+STATEN ISLAND,2024,7,Sign,19
+STATEN ISLAND,2024,7,Solar,154
+STATEN ISLAND,2024,7,Sprinklers,20
+STATEN ISLAND,2024,7,Standpipe,6
+STATEN ISLAND,2024,7,Structural,132
+STATEN ISLAND,2024,7,Support of Excavation,6
+STATEN ISLAND,2024,7,Supported Scaffold,4
+STATEN ISLAND,2024,8,Antenna,1
+STATEN ISLAND,2024,8,Boiler Equipment,3
+STATEN ISLAND,2024,8,Construction Fence,57
+STATEN ISLAND,2024,8,Curb Cut,30
+STATEN ISLAND,2024,8,Earth Work,22
+STATEN ISLAND,2024,8,Foundation,56
+STATEN ISLAND,2024,8,Full Demolition,15
+STATEN ISLAND,2024,8,General Construction,136
+STATEN ISLAND,2024,8,Mechanical Systems,58
+STATEN ISLAND,2024,8,Plumbing,103
+STATEN ISLAND,2024,8,Protection and Mechanical Methods,2
+STATEN ISLAND,2024,8,Sidewalk Shed,10
+STATEN ISLAND,2024,8,Sign,7
+STATEN ISLAND,2024,8,Solar,197
+STATEN ISLAND,2024,8,Sprinklers,35
+STATEN ISLAND,2024,8,Structural,73
+STATEN ISLAND,2024,8,Support of Excavation,2
+STATEN ISLAND,2024,8,Supported Scaffold,6
+STATEN ISLAND,2024,8,Suspended Scaffold,10
+STATEN ISLAND,2024,9,Antenna,3
+STATEN ISLAND,2024,9,Boiler Equipment,6
+STATEN ISLAND,2024,9,Construction Fence,59
+STATEN ISLAND,2024,9,Curb Cut,13
+STATEN ISLAND,2024,9,Earth Work,32
+STATEN ISLAND,2024,9,Foundation,88
+STATEN ISLAND,2024,9,Full Demolition,9
+STATEN ISLAND,2024,9,General Construction,163
+STATEN ISLAND,2024,9,Mechanical Systems,66
+STATEN ISLAND,2024,9,Plumbing,127
+STATEN ISLAND,2024,9,Protection and Mechanical Methods,1
+STATEN ISLAND,2024,9,Sidewalk Shed,13
+STATEN ISLAND,2024,9,Sign,9
+STATEN ISLAND,2024,9,Solar,155
+STATEN ISLAND,2024,9,Sprinklers,14
+STATEN ISLAND,2024,9,Structural,107
+STATEN ISLAND,2024,9,Support of Excavation,2
+STATEN ISLAND,2024,9,Supported Scaffold,4
+STATEN ISLAND,2024,9,Suspended Scaffold,4
+STATEN ISLAND,2024,10,Antenna,4
+STATEN ISLAND,2024,10,Boiler Equipment,5
+STATEN ISLAND,2024,10,Construction Fence,105
+STATEN ISLAND,2024,10,Curb Cut,29
+STATEN ISLAND,2024,10,Earth Work,45
+STATEN ISLAND,2024,10,Foundation,97
+STATEN ISLAND,2024,10,Full Demolition,13
+STATEN ISLAND,2024,10,General Construction,183
+STATEN ISLAND,2024,10,Mechanical Systems,83
+STATEN ISLAND,2024,10,Plumbing,111
+STATEN ISLAND,2024,10,Protection and Mechanical Methods,2
+STATEN ISLAND,2024,10,Sidewalk Shed,28
+STATEN ISLAND,2024,10,Sign,5
+STATEN ISLAND,2024,10,Solar,206
+STATEN ISLAND,2024,10,Sprinklers,15
+STATEN ISLAND,2024,10,Standpipe,4
+STATEN ISLAND,2024,10,Structural,99
+STATEN ISLAND,2024,10,Support of Excavation,7
+STATEN ISLAND,2024,10,Supported Scaffold,7
+STATEN ISLAND,2024,10,Suspended Scaffold,2
+STATEN ISLAND,2024,11,Antenna,1
+STATEN ISLAND,2024,11,Boiler Equipment,4
+STATEN ISLAND,2024,11,Construction Fence,77
+STATEN ISLAND,2024,11,Curb Cut,31
+STATEN ISLAND,2024,11,Earth Work,34
+STATEN ISLAND,2024,11,Foundation,75
+STATEN ISLAND,2024,11,Full Demolition,11
+STATEN ISLAND,2024,11,General Construction,144
+STATEN ISLAND,2024,11,Mechanical Systems,68
+STATEN ISLAND,2024,11,Plumbing,111
+STATEN ISLAND,2024,11,Protection and Mechanical Methods,4
+STATEN ISLAND,2024,11,Sidewalk Shed,8
+STATEN ISLAND,2024,11,Sign,6
+STATEN ISLAND,2024,11,Solar,159
+STATEN ISLAND,2024,11,Sprinklers,16
+STATEN ISLAND,2024,11,Standpipe,2
+STATEN ISLAND,2024,11,Structural,90
+STATEN ISLAND,2024,11,Support of Excavation,3
+STATEN ISLAND,2024,11,Supported Scaffold,3
+STATEN ISLAND,2024,12,Antenna,2
+STATEN ISLAND,2024,12,Boiler Equipment,3
+STATEN ISLAND,2024,12,Construction Fence,61
+STATEN ISLAND,2024,12,Curb Cut,34
+STATEN ISLAND,2024,12,Earth Work,43
+STATEN ISLAND,2024,12,Foundation,69
+STATEN ISLAND,2024,12,Full Demolition,16
+STATEN ISLAND,2024,12,General Construction,155
+STATEN ISLAND,2024,12,Mechanical Systems,74
+STATEN ISLAND,2024,12,Plumbing,99
+STATEN ISLAND,2024,12,Protection and Mechanical Methods,2
+STATEN ISLAND,2024,12,Sidewalk Shed,24
+STATEN ISLAND,2024,12,Sign,11
+STATEN ISLAND,2024,12,Solar,167
+STATEN ISLAND,2024,12,Sprinklers,20
+STATEN ISLAND,2024,12,Standpipe,5
+STATEN ISLAND,2024,12,Structural,89
+STATEN ISLAND,2024,12,Support of Excavation,4
+STATEN ISLAND,2024,12,Supported Scaffold,16
+STATEN ISLAND,2024,12,Suspended Scaffold,1
+STATEN ISLAND,2025,1,Antenna,2
+STATEN ISLAND,2025,1,Boiler Equipment,6
+STATEN ISLAND,2025,1,Construction Fence,67
+STATEN ISLAND,2025,1,Curb Cut,56
+STATEN ISLAND,2025,1,Earth Work,26
+STATEN ISLAND,2025,1,Foundation,64
+STATEN ISLAND,2025,1,Full Demolition,9
+STATEN ISLAND,2025,1,General Construction,138
+STATEN ISLAND,2025,1,Mechanical Systems,70
+STATEN ISLAND,2025,1,Plumbing,112
+STATEN ISLAND,2025,1,Protection and Mechanical Methods,1
+STATEN ISLAND,2025,1,Sidewalk Shed,14
+STATEN ISLAND,2025,1,Sign,13
+STATEN ISLAND,2025,1,Solar,116
+STATEN ISLAND,2025,1,Sprinklers,19
+STATEN ISLAND,2025,1,Standpipe,4
+STATEN ISLAND,2025,1,Structural,75
+STATEN ISLAND,2025,1,Support of Excavation,6
+STATEN ISLAND,2025,1,Supported Scaffold,9
+STATEN ISLAND,2025,1,Suspended Scaffold,1
+STATEN ISLAND,2025,2,Antenna,9
+STATEN ISLAND,2025,2,Boiler Equipment,1
+STATEN ISLAND,2025,2,Construction Fence,53
+STATEN ISLAND,2025,2,Curb Cut,38
+STATEN ISLAND,2025,2,Earth Work,63
+STATEN ISLAND,2025,2,Foundation,77
+STATEN ISLAND,2025,2,Full Demolition,8
+STATEN ISLAND,2025,2,General Construction,160
+STATEN ISLAND,2025,2,Mechanical Systems,70
+STATEN ISLAND,2025,2,Plumbing,111
+STATEN ISLAND,2025,2,Protection and Mechanical Methods,1
+STATEN ISLAND,2025,2,Sidewalk Shed,8
+STATEN ISLAND,2025,2,Sign,14
+STATEN ISLAND,2025,2,Solar,100
+STATEN ISLAND,2025,2,Sprinklers,26
+STATEN ISLAND,2025,2,Standpipe,1
+STATEN ISLAND,2025,2,Structural,89
+STATEN ISLAND,2025,2,Support of Excavation,2
+STATEN ISLAND,2025,2,Supported Scaffold,2
+STATEN ISLAND,2025,3,Antenna,7
+STATEN ISLAND,2025,3,Boiler Equipment,6
+STATEN ISLAND,2025,3,Construction Fence,84
+STATEN ISLAND,2025,3,Curb Cut,30
+STATEN ISLAND,2025,3,Earth Work,49
+STATEN ISLAND,2025,3,Foundation,84
+STATEN ISLAND,2025,3,Full Demolition,10
+STATEN ISLAND,2025,3,General Construction,173
+STATEN ISLAND,2025,3,Mechanical Systems,86
+STATEN ISLAND,2025,3,Plumbing,128
+STATEN ISLAND,2025,3,Sidewalk Shed,12
+STATEN ISLAND,2025,3,Sign,9
+STATEN ISLAND,2025,3,Solar,136
+STATEN ISLAND,2025,3,Sprinklers,25
+STATEN ISLAND,2025,3,Standpipe,3
+STATEN ISLAND,2025,3,Structural,94
+STATEN ISLAND,2025,3,Support of Excavation,7
+STATEN ISLAND,2025,3,Supported Scaffold,6
+STATEN ISLAND,2025,4,Antenna,3
+STATEN ISLAND,2025,4,Boiler Equipment,3
+STATEN ISLAND,2025,4,Construction Fence,64
+STATEN ISLAND,2025,4,Curb Cut,41
+STATEN ISLAND,2025,4,Earth Work,45
+STATEN ISLAND,2025,4,Foundation,99
+STATEN ISLAND,2025,4,Full Demolition,11
+STATEN ISLAND,2025,4,General Construction,208
+STATEN ISLAND,2025,4,Mechanical Systems,92
+STATEN ISLAND,2025,4,Plumbing,137
+STATEN ISLAND,2025,4,Protection and Mechanical Methods,1
+STATEN ISLAND,2025,4,Sidewalk Shed,13
+STATEN ISLAND,2025,4,Sign,11
+STATEN ISLAND,2025,4,Solar,126
+STATEN ISLAND,2025,4,Sprinklers,28
+STATEN ISLAND,2025,4,Standpipe,4
+STATEN ISLAND,2025,4,Structural,115
+STATEN ISLAND,2025,4,Support of Excavation,5
+STATEN ISLAND,2025,4,Supported Scaffold,9
+STATEN ISLAND,2025,4,Suspended Scaffold,7
+STATEN ISLAND,2025,5,Antenna,7
+STATEN ISLAND,2025,5,Boiler Equipment,10
+STATEN ISLAND,2025,5,Construction Fence,75
+STATEN ISLAND,2025,5,Curb Cut,20
+STATEN ISLAND,2025,5,Earth Work,32
+STATEN ISLAND,2025,5,Foundation,76
+STATEN ISLAND,2025,5,Full Demolition,15
+STATEN ISLAND,2025,5,General Construction,179
+STATEN ISLAND,2025,5,Mechanical Systems,79
+STATEN ISLAND,2025,5,Plumbing,132
+STATEN ISLAND,2025,5,Protection and Mechanical Methods,1
+STATEN ISLAND,2025,5,Sidewalk Shed,11
+STATEN ISLAND,2025,5,Sign,10
+STATEN ISLAND,2025,5,Solar,121
+STATEN ISLAND,2025,5,Sprinklers,24
+STATEN ISLAND,2025,5,Standpipe,3
+STATEN ISLAND,2025,5,Structural,85
+STATEN ISLAND,2025,5,Supported Scaffold,7
+STATEN ISLAND,2025,6,Antenna,3
+STATEN ISLAND,2025,6,Boiler Equipment,1
+STATEN ISLAND,2025,6,Construction Fence,63
+STATEN ISLAND,2025,6,Curb Cut,26
+STATEN ISLAND,2025,6,Earth Work,18
+STATEN ISLAND,2025,6,Foundation,44
+STATEN ISLAND,2025,6,Full Demolition,14
+STATEN ISLAND,2025,6,General Construction,124
+STATEN ISLAND,2025,6,Mechanical Systems,42
+STATEN ISLAND,2025,6,Plumbing,86
+STATEN ISLAND,2025,6,Protection and Mechanical Methods,3
+STATEN ISLAND,2025,6,Sidewalk Shed,12
+STATEN ISLAND,2025,6,Sign,18
+STATEN ISLAND,2025,6,Solar,161
+STATEN ISLAND,2025,6,Sprinklers,16
+STATEN ISLAND,2025,6,Standpipe,4
+STATEN ISLAND,2025,6,Structural,59
+STATEN ISLAND,2025,6,Support of Excavation,2
+STATEN ISLAND,2025,6,Supported Scaffold,5
+STATEN ISLAND,2025,6,Suspended Scaffold,1
+STATEN ISLAND,2025,7,Antenna,5
+STATEN ISLAND,2025,7,Boiler Equipment,5
+STATEN ISLAND,2025,7,Construction Fence,73
+STATEN ISLAND,2025,7,Curb Cut,30
+STATEN ISLAND,2025,7,Earth Work,79
+STATEN ISLAND,2025,7,Foundation,120
+STATEN ISLAND,2025,7,Full Demolition,17
+STATEN ISLAND,2025,7,General Construction,222
+STATEN ISLAND,2025,7,Mechanical Systems,82
+STATEN ISLAND,2025,7,Plumbing,129
+STATEN ISLAND,2025,7,Protection and Mechanical Methods,2
+STATEN ISLAND,2025,7,Sidewalk Shed,9
+STATEN ISLAND,2025,7,Sign,12
+STATEN ISLAND,2025,7,Solar,133
+STATEN ISLAND,2025,7,Sprinklers,30
+STATEN ISLAND,2025,7,Standpipe,7
+STATEN ISLAND,2025,7,Structural,129
+STATEN ISLAND,2025,7,Support of Excavation,10
+STATEN ISLAND,2025,7,Supported Scaffold,7
+STATEN ISLAND,2025,7,Suspended Scaffold,4
+STATEN ISLAND,2025,8,Antenna,10
+STATEN ISLAND,2025,8,Boiler Equipment,4
+STATEN ISLAND,2025,8,Construction Fence,59
+STATEN ISLAND,2025,8,Curb Cut,40
+STATEN ISLAND,2025,8,Earth Work,54
+STATEN ISLAND,2025,8,Foundation,65
+STATEN ISLAND,2025,8,Full Demolition,10
+STATEN ISLAND,2025,8,General Construction,144
+STATEN ISLAND,2025,8,Mechanical Systems,72
+STATEN ISLAND,2025,8,Plumbing,114
+STATEN ISLAND,2025,8,Protection and Mechanical Methods,2
+STATEN ISLAND,2025,8,Sidewalk Shed,6
+STATEN ISLAND,2025,8,Sign,24
+STATEN ISLAND,2025,8,Solar,140
+STATEN ISLAND,2025,8,Sprinklers,17
+STATEN ISLAND,2025,8,Structural,85
+STATEN ISLAND,2025,8,Support of Excavation,1
+STATEN ISLAND,2025,8,Supported Scaffold,3
+STATEN ISLAND,2025,8,Suspended Scaffold,3
+STATEN ISLAND,2025,9,Antenna,3
+STATEN ISLAND,2025,9,Boiler Equipment,8
+STATEN ISLAND,2025,9,Construction Fence,52
+STATEN ISLAND,2025,9,Curb Cut,28
+STATEN ISLAND,2025,9,Earth Work,19
+STATEN ISLAND,2025,9,Foundation,71
+STATEN ISLAND,2025,9,Full Demolition,18
+STATEN ISLAND,2025,9,General Construction,153
+STATEN ISLAND,2025,9,Mechanical Systems,66
+STATEN ISLAND,2025,9,Plumbing,117
+STATEN ISLAND,2025,9,Protection and Mechanical Methods,1
+STATEN ISLAND,2025,9,Sidewalk Shed,13
+STATEN ISLAND,2025,9,Sign,31
+STATEN ISLAND,2025,9,Solar,148
+STATEN ISLAND,2025,9,Sprinklers,11
+STATEN ISLAND,2025,9,Structural,81
+STATEN ISLAND,2025,9,Support of Excavation,7
+STATEN ISLAND,2025,9,Supported Scaffold,7
+STATEN ISLAND,2025,9,Suspended Scaffold,7
+STATEN ISLAND,2025,10,Antenna,7
+STATEN ISLAND,2025,10,Boiler Equipment,4
+STATEN ISLAND,2025,10,Construction Fence,77
+STATEN ISLAND,2025,10,Curb Cut,44
+STATEN ISLAND,2025,10,Earth Work,25
+STATEN ISLAND,2025,10,Foundation,93
+STATEN ISLAND,2025,10,Full Demolition,29
+STATEN ISLAND,2025,10,General Construction,186
+STATEN ISLAND,2025,10,Mechanical Systems,60
+STATEN ISLAND,2025,10,Plumbing,155
+STATEN ISLAND,2025,10,Protection and Mechanical Methods,3
+STATEN ISLAND,2025,10,Sidewalk Shed,12
+STATEN ISLAND,2025,10,Sign,5
+STATEN ISLAND,2025,10,Solar,195
+STATEN ISLAND,2025,10,Sprinklers,38
+STATEN ISLAND,2025,10,Standpipe,4
+STATEN ISLAND,2025,10,Structural,96
+STATEN ISLAND,2025,10,Support of Excavation,4
+STATEN ISLAND,2025,10,Supported Scaffold,4
+STATEN ISLAND,2025,10,Suspended Scaffold,1
+STATEN ISLAND,2025,11,Boiler Equipment,7
+STATEN ISLAND,2025,11,Construction Fence,78
+STATEN ISLAND,2025,11,Curb Cut,33
+STATEN ISLAND,2025,11,Earth Work,20
+STATEN ISLAND,2025,11,Foundation,55
+STATEN ISLAND,2025,11,Full Demolition,14
+STATEN ISLAND,2025,11,General Construction,119
+STATEN ISLAND,2025,11,Mechanical Systems,42
+STATEN ISLAND,2025,11,Plumbing,74
+STATEN ISLAND,2025,11,Protection and Mechanical Methods,2
+STATEN ISLAND,2025,11,Sidewalk Shed,3
+STATEN ISLAND,2025,11,Sign,29
+STATEN ISLAND,2025,11,Solar,136
+STATEN ISLAND,2025,11,Sprinklers,11
+STATEN ISLAND,2025,11,Structural,68
+STATEN ISLAND,2025,11,Support of Excavation,7
+STATEN ISLAND,2025,11,Supported Scaffold,2
+STATEN ISLAND,2025,11,Suspended Scaffold,2
+STATEN ISLAND,2025,12,Antenna,5
+STATEN ISLAND,2025,12,Boiler Equipment,2
+STATEN ISLAND,2025,12,Construction Fence,78
+STATEN ISLAND,2025,12,Curb Cut,44
+STATEN ISLAND,2025,12,Earth Work,30
+STATEN ISLAND,2025,12,Foundation,66
+STATEN ISLAND,2025,12,Full Demolition,24
+STATEN ISLAND,2025,12,General Construction,151
+STATEN ISLAND,2025,12,Mechanical Systems,68
+STATEN ISLAND,2025,12,Plumbing,106
+STATEN ISLAND,2025,12,Protection and Mechanical Methods,3
+STATEN ISLAND,2025,12,Sidewalk Shed,13
+STATEN ISLAND,2025,12,Sign,7
+STATEN ISLAND,2025,12,Solar,125
+STATEN ISLAND,2025,12,Sprinklers,32
+STATEN ISLAND,2025,12,Standpipe,8
+STATEN ISLAND,2025,12,Structural,80
+STATEN ISLAND,2025,12,Support of Excavation,2
+STATEN ISLAND,2025,12,Supported Scaffold,7
+STATEN ISLAND,2025,12,Suspended Scaffold,2

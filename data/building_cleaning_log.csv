@@ -1,0 +1,5 @@
+step,rows
+Starting records,484414
+Identical selected-column rows removed,25
+Ambiguous records set aside (unique rows),3200
+Eligible detail rows retained,481189

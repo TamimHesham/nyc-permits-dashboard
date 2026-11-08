@@ -1,0 +1,10 @@
+# Configure the Python web service and its production startup command.
+# The app loads prepared local CSVs; deployment does not download raw datasets.
+
+services:
+  - type: web
+    name: nyc-permits-dashboard
+    runtime: python
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:server --bind 0.0.0.0:$PORT --workers 1 --threads 4 --timeout 120

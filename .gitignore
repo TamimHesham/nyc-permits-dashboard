@@ -1,0 +1,8 @@
+# Exclude local environments, caches and secrets from the repository.
+.venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
